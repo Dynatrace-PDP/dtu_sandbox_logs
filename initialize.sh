@@ -157,6 +157,9 @@ chmod +x "/home/${instance_user}/monaco"
 /home/${instance_user}/monaco deploy "$MANIFEST_ONEAGENT"
 /home/${instance_user}/monaco deploy "$MANIFEST_LOGS"
 
+###Remove unnecessary apps
+kubectl delete namespace easytrade otel-demo unguard --ignore-not-found
+
 sleep 30
 restart_k3s
 sleep 300
