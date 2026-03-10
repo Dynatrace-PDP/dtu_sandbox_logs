@@ -1,5 +1,5 @@
 {
   "enabled": false,
   "instrumentation": false,
-  "key": "SENSOR_DOTNET_AWS_SDK_CORE"
+  "key": "SENSOR_DOTNET_AWS_SDK_CORE_FORCIBLE"
 }

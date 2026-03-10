@@ -1,5 +1,5 @@
 {
   "enabled": false,
   "instrumentation": false,
-  "key": "SENSOR_JAVA_PEKKO_HTTP"
+  "key": "SENSOR_JAVA_PEKKO_HTTP_FORCIBLE"
 }
