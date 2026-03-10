@@ -8,3 +8,5 @@ cd dtu_sandbox_logs
 chmod +x initialize.sh
 ./initialize.sh
 ```
+
+You may have to paste in the password for sudo, which is the same password you used to login to the instance.
