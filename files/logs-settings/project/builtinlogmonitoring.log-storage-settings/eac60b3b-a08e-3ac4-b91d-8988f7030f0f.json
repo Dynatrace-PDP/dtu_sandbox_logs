@@ -1,0 +1,18 @@
+{
+  "enabled": false,
+  "config-item-title": "[Built-in] Kubernetes default namespaces logs",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "k8s.namespace.name",
+      "operator": "MATCHES",
+      "values": [
+        "default",
+        "dynatrace",
+        "kube-node-lease",
+        "kube-public",
+        "kube-system"
+      ]
+    }
+  ]
+}

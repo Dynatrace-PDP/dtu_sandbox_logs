@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "config-item-title": "[Built-in] Windows system, application, and security logs",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "log.source",
+      "operator": "MATCHES",
+      "values": [
+        "Windows System Log",
+        "Windows Security Log",
+        "Windows Application Log"
+      ]
+    }
+  ]
+}

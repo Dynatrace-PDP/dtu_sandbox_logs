@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "instrumentation": false,
+  "key": "SENSOR_SDK_PYTHON_INCOMING_REMOTE_CALL"
+}

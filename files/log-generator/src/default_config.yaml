@@ -1,0 +1,46 @@
+templates:
+  # - name: nginx_access_logs
+  #   type: unstructured
+  #   template: '%{IP} - %{USERNAME} [%{SYSLOGDATE}] "%{HTTPMETHOD} %{PATH} HTTP/1.1" %{HTTPERROR} %{INT} "%{URL}" "%{DATA}"'
+  #   frequency:
+  #     min_seconds: 1
+  #     max_seconds: 3
+
+  # - name: batch_processing_logs
+  #   type: unstructured
+  #   count: 5
+  #   template: '[%{SYSLOGDATE}] Batch item %{INDEX}/5: Processing %{DATA}'
+  #   frequency:
+  #     min_seconds: 1
+  #     max_seconds: 5
+
+  # - name: error_logs
+  #   type: unstructured
+  #   template: '[%{SYSLOGDATE}] ERROR in %{PATH}:%{POSINT} - %{GREEDYDATA}'
+  #   frequency:
+  #     min_seconds: 5
+  #     max_seconds: 10
+
+  - name: json_log_info
+    type: json
+    template: '{"timestamp": "%{TIMESTAMP_ISO8601}", "level": "ERROR", "routingKey": "team-%{INDEX}", "service": "demo-app", "message": "Payment could not be processed. Please Try Again."}'
+    count: 40
+    frequency:
+      min_seconds: 1
+      max_seconds: 20
+
+  - name: json_log_add_item
+    type: json
+    template: '{"timestamp": "%{TIMESTAMP_ISO8601}", "level": "INFO", "routingKey": "team-%{INDEX}", "service": "demo-app", "userId": "%{UUID}", "message": "Item added to order", "orderId": "%{UUID}", "productName": "%{PRODUCT_NAME}","productCategory": "%{PRODUCT_CATEGORY}", "quantity": %{INT}}'
+    count: 40
+    frequency:
+      min_seconds: 1
+      max_seconds: 2
+
+  - name: json_log_order
+    type: json
+    template: '{"timestamp": "%{TIMESTAMP_ISO8601}", "level": "INFO", "routingKey": "team-%{INDEX}", "service": "demo-app", "userId": "%{UUID}", "userEmail": "%{EMAIL}", "message": "Order submitted successfully!", "orderId": "%{UUID}", "orderTotal": "%{DOLLAR}"}'
+    count: 40
+    frequency:
+      min_seconds: 5
+      max_seconds: 15

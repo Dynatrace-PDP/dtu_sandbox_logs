@@ -1,0 +1,4 @@
+{
+  "enabled": false,
+  "key": "AWS_SNS_TRACE_CONTEXT"
+}

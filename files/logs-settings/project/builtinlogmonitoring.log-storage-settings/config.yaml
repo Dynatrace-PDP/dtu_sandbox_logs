@@ -1,0 +1,123 @@
+configs:
+- id: 1f968272-ce80-3b5c-be67-36a14e2423c7
+  config:
+    template: 1f968272-ce80-3b5c-be67-36a14e2423c7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACRlMmI2NzE0OC04M2FjLTExZWUtYjk2Mi0wMjQyYWMxMjAwMDK-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: 7f5d0069-1db0-37ec-b622-e85d7e0c126a
+        property: id
+        type: reference
+- id: 54e1e450-8701-34f0-885e-758f6a78f118
+  config:
+    template: 54e1e450-8701-34f0-885e-758f6a78f118.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACQ3MmViZDViYS1lOTY0LTMzNzAtYWMzZS03NjhjODAxNDM0Yzi-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+- id: 71bfef63-2c8c-3966-bd01-624ddf64b317
+  config:
+    template: 71bfef63-2c8c-3966-bd01-624ddf64b317.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACQ1MDZlYjRhNC04MjAyLTExZWUtYjk2Mi0wMjQyYWMxMjAwMDK-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: eddeae51-be1a-390b-86a7-c5f9524eb647
+        property: id
+        type: reference
+- id: 7f5d0069-1db0-37ec-b622-e85d7e0c126a
+  config:
+    template: 7f5d0069-1db0-37ec-b622-e85d7e0c126a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACRlZWFhMzk5ZS04M2FjLTExZWUtYjk2Mi0wMjQyYWMxMjAwMDK-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: abab3ab0-afd1-36be-a8c7-8c08c0a0215f
+        property: id
+        type: reference
+- id: abab3ab0-afd1-36be-a8c7-8c08c0a0215f
+  config:
+    template: abab3ab0-afd1-36be-a8c7-8c08c0a0215f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACQxZTZmNWUwNy0wODEwLTQyN2UtYjM4Ni1mZjUzOWMyYWRkODO-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: f25c5a47-7ff5-35c4-8926-356c02e0aa78
+        property: id
+        type: reference
+- id: b6b2683f-030d-3559-9141-15cc45d16acb
+  config:
+    template: b6b2683f-030d-3559-9141-15cc45d16acb.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACRlYWI2M2I1OS1jM2VhLTM3NDItYmJkNS03N2YxNmQzODIxYzK-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: eac60b3b-a08e-3ac4-b91d-8988f7030f0f
+        property: id
+        type: reference
+- id: eac60b3b-a08e-3ac4-b91d-8988f7030f0f
+  config:
+    template: eac60b3b-a08e-3ac4-b91d-8988f7030f0f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACRjZDYyODI3ZC1kNzk3LTNlMDQtYTA3Yy1mMDQ4NDljZDU1Mzi-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: 1f968272-ce80-3b5c-be67-36a14e2423c7
+        property: id
+        type: reference
+- id: eddeae51-be1a-390b-86a7-c5f9524eb647
+  config:
+    template: eddeae51-be1a-390b-86a7-c5f9524eb647.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACRkODc3NDIzNS05NDg5LTM3YTQtYTM4My1iNWQ4YjdhZmFhMmS-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: b6b2683f-030d-3559-9141-15cc45d16acb
+        property: id
+        type: reference
+- id: f25c5a47-7ff5-35c4-8926-356c02e0aa78
+  config:
+    template: f25c5a47-7ff5-35c4-8926-356c02e0aa78.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpidWlsdGluOmxvZ21vbml0b3JpbmcubG9nLXN0b3JhZ2Utc2V0dGluZ3MABnRlbmFudAAGdGVuYW50ACQ2YWYwNmU0MS1kZmNhLTRmMzEtYTY3Yi0yM2E4MWQxODc1ZTG-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:logmonitoring.log-storage-settings
+      schemaVersion: 1.0.18
+      scope: environment
+      insertAfter:
+        configId: 54e1e450-8701-34f0-885e-758f6a78f118
+        property: id
+        type: reference

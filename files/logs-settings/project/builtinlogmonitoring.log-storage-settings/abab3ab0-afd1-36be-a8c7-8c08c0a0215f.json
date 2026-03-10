@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "config-item-title": "[Built-in] Ingest logs from custom log sources",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "log.source.origin",
+      "operator": "MATCHES",
+      "values": [
+        "CUSTOM_LOG"
+      ]
+    }
+  ]
+}

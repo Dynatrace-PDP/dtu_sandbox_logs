@@ -1,0 +1,4 @@
+{
+  "enabled": false,
+  "key": "AWS_EVENT_BRIDGE_TRACE_CONTEXT"
+}

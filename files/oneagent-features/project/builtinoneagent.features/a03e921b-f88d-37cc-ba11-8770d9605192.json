@@ -1,0 +1,4 @@
+{
+  "enabled": false,
+  "key": "AWS_SQS_TRACE_CONTEXT"
+}

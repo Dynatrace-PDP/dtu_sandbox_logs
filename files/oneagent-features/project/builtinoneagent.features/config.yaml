@@ -1,0 +1,4081 @@
+configs:
+- id: 000dfec7-987a-3cf1-887e-6e88ad3d1271
+  config:
+    template: 000dfec7-987a-3cf1-887e-6e88ad3d1271.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjkzZTY4ZTEtZWIwNy0zNWExLWI5YjktZGQ1Mzc4ODQwODI0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 008e6e16-a52f-3b6b-905a-05d1cd60ffcc
+  config:
+    template: 008e6e16-a52f-3b6b-905a-05d1cd60ffcc.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2VhYzQ4ODAtZGQ5ZS0zYjk3LThiODQtZjVmNzJjNjUzMWVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0205c83e-b419-30a3-a844-c745ec22ef32
+  config:
+    template: 0205c83e-b419-30a3-a844-c745ec22ef32.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGNlOGU2NjAtMTg0Ni0zN2NhLTgzOTQtOGUyZWJjNDY2ZWJlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 049e620b-f280-33eb-be43-9565d59e235f
+  config:
+    template: 049e620b-f280-33eb-be43-9565d59e235f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGM3ODZhMTMtYmNhZi0zN2Q4LTlhMzktYTAwNTY3NzU1MWQ3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 04ca46d8-c409-3870-9457-a19837439ba8
+  config:
+    template: 04ca46d8-c409-3870-9457-a19837439ba8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmEyYWM5NTUtM2FjNC0zNjg4LThiNWMtNDRhMWRmZWE1NmE1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 059c551f-fc6d-30a1-aab9-a43aa50f9cea
+  config:
+    template: 059c551f-fc6d-30a1-aab9-a43aa50f9cea.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzJhYzJkN2YtY2ZhMC0zN2RiLWFlMWMtMGYzNjA1NDcxNDNhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 059e414d-b4d6-31a5-b016-8f6959f2bb2c
+  config:
+    template: 059e414d-b4d6-31a5-b016-8f6959f2bb2c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTlkZmZiYzMtZGE3ZC0zZjZjLTlkYzgtOTA0Y2IxZWY2NDQxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 063ac32a-0676-3fb1-a410-b18979d322a1
+  config:
+    template: 063ac32a-0676-3fb1-a410-b18979d322a1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWM1NTg1NTYtNTExOC0zN2UxLTlmNTQtMDNiYTczZTZkMzZhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 071abbaf-9dad-31e7-ab35-ca73f4e686d0
+  config:
+    template: 071abbaf-9dad-31e7-ab35-ca73f4e686d0.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDQ1NDRlYjItOTYyNi0zNDAzLWJmMTEtNjI1YjBiN2ViZmY5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 07410b05-5f56-3e17-9c45-b566557d00e9
+  config:
+    template: 07410b05-5f56-3e17-9c45-b566557d00e9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2M0NTAyYmEtNmFkYy0zNDdlLWIxYzgtZGY1ZTU4OTYxMjY0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0831af84-dee5-3221-991c-9ba72479456b
+  config:
+    template: 0831af84-dee5-3221-991c-9ba72479456b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2E5MDRhMTQtZmYyZi0zNTJhLTk4ZWUtZjcwN2FjNmZiMTEyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 08db9c40-ee25-33e7-afd4-e0fcdc59853b
+  config:
+    template: 08db9c40-ee25-33e7-afd4-e0fcdc59853b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjRkYmY3NzctNWMxYy0zMjE3LWFjYjEtYjM1NmVkZmY5OWU3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 093d6c43-b91b-3391-8df3-d040211e33d3
+  config:
+    template: 093d6c43-b91b-3391-8df3-d040211e33d3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmUzYjQwNTItZjJkMi0zZjFlLTk1NTgtMWI4NTk2NTAwOWU5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 09fe67db-69a6-37a0-a22b-04d8bf13343b
+  config:
+    template: 09fe67db-69a6-37a0-a22b-04d8bf13343b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGEzNGJkZjctYjA4Ny0zNjE5LWI0YjEtZTJhYWZhMjhlNjMzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0bc0fd48-2223-36cb-bad6-2ebb30e02c71
+  config:
+    template: 0bc0fd48-2223-36cb-bad6-2ebb30e02c71.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzIxZDBlNjMtMTBiZi0zYjIyLTk2ODMtNDAzNDJhYTk0MjY1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0c0c63dd-12e8-335b-8ecb-c08e71eccc8f
+  config:
+    template: 0c0c63dd-12e8-335b-8ecb-c08e71eccc8f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2VhODU5ZjUtMmJiYy0zMmNmLWI2ZTktOGExMzQ2YTU4Yjdhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0cabba3e-1c90-3774-b54d-a087ca88c326
+  config:
+    template: 0cabba3e-1c90-3774-b54d-a087ca88c326.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTQ4MjJiNGQtMTdlNS0zMjU5LThhNzMtY2YxNjYyNDhkMTc3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0cfe61a1-6b7b-37eb-ac0d-928b6f416566
+  config:
+    template: 0cfe61a1-6b7b-37eb-ac0d-928b6f416566.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTFhZjE0YTYtMGIyZC0zODU4LWJkMDYtMTEyYzc1MzE5MmZmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0e645500-a89f-3087-99a0-f7664ec29cf3
+  config:
+    template: 0e645500-a89f-3087-99a0-f7664ec29cf3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjIzNDkzYjctMjkyMi0zYmRiLWE1MDEtM2MwZjllYjEwYzczvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 0f5e2a41-c91d-37bb-a5e3-13c9ed763a4f
+  config:
+    template: 0f5e2a41-c91d-37bb-a5e3-13c9ed763a4f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDQ1YzhmZWItY2ZhMS0zYjFhLTlkZTgtN2Y2ZWYxZGRlYTM5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1098cae9-129f-39b7-96d2-578328ee509f
+  config:
+    template: 1098cae9-129f-39b7-96d2-578328ee509f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDY0ZDE5MTEtMTlkZS0zYTliLWI4MTQtM2Q3N2M4YmYwNjBkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 10cf4bb0-afee-3549-beac-ab13f5bb933c
+  config:
+    template: 10cf4bb0-afee-3549-beac-ab13f5bb933c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODcyODk0Y2ItZTVkYy0zYjZlLWE0MmItMmIyNzdlYzQzN2Fjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 11252187-5b55-362b-999e-c41f210d54f4
+  config:
+    template: 11252187-5b55-362b-999e-c41f210d54f4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzk3NzcwNDQtNmUxYi0zODZlLTliM2QtMGU4NGRiMmQ1YjA3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 11ca12de-5f6f-367a-8c75-45e64c16d903
+  config:
+    template: 11ca12de-5f6f-367a-8c75-45e64c16d903.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGQ1NDIxYTctZTcxNS0zNDI1LTg2YTUtY2Y5MGU3MWU5YzMxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1308e43f-f7f7-322e-ad88-3749e7d4feb2
+  config:
+    template: 1308e43f-f7f7-322e-ad88-3749e7d4feb2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmViZWM0YTgtZmFkOS0zMzk4LWEzZDctMjBhM2JjNDRiMzVhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 14058b4e-4dbc-3727-b901-4d1166f07602
+  config:
+    template: 14058b4e-4dbc-3727-b901-4d1166f07602.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzM4OGJlNDQtMzNlNi0zZGQxLThmMmMtMGQ1OWNlYmZiNzdivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 160bed15-c12d-32e8-a229-8dff92499b69
+  config:
+    template: 160bed15-c12d-32e8-a229-8dff92499b69.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWI1NzkyN2YtYzUxMi0zYjE4LWI2MWEtZmU3MjYwNTA5Nzgyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 16b78c2f-c301-3a45-9994-a28d0aac5082
+  config:
+    template: 16b78c2f-c301-3a45-9994-a28d0aac5082.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjBkMmIxMGYtNmQ3My0zMzc1LTgwNGUtNWM4MTUyMzMzNTRjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 16b9e63c-f239-3fd9-8cf9-ef1f7bac4b21
+  config:
+    template: 16b9e63c-f239-3fd9-8cf9-ef1f7bac4b21.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGY4NTgwNjYtMTg4My0zMTcwLWFlNWMtZTdlNTI0NjQ4NTM4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1730099d-b42e-3a7b-ba91-df880edb4027
+  config:
+    template: 1730099d-b42e-3a7b-ba91-df880edb4027.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjEwMTkzMTAtMjA1ZS0zZTM3LWIxMTUtZTI4M2YxNTE5NzRmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 174be995-8031-3574-937d-88a34c013e9f
+  config:
+    template: 174be995-8031-3574-937d-88a34c013e9f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGYwNWRhZWUtY2Y3My0zNGY3LTg4MmYtMWU1MmE4MTY3Yjdivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1760d6c3-bb31-3e2a-a61d-61fd51f8fac9
+  config:
+    template: 1760d6c3-bb31-3e2a-a61d-61fd51f8fac9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDRkOTBkNjgtZjlhNy0zZmUzLThhOWUtM2MyZjYyYWMxMzI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 17ba5754-95f9-3c10-931c-63d699b4bc36
+  config:
+    template: 17ba5754-95f9-3c10-931c-63d699b4bc36.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzUyNWViZWYtN2ExYi0zYzJkLTllZDctYzRlYzlhMGE3NWU0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 18e54383-f7f5-33f0-8492-fe4db791bcb3
+  config:
+    template: 18e54383-f7f5-33f0-8492-fe4db791bcb3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDFkMDM1NTctNmZjYS0zNTY1LWFhMTMtMzIxMDQ2Y2NkOTI3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 19f735ec-429a-3755-9f03-b10fb4b8b9a3
+  config:
+    template: 19f735ec-429a-3755-9f03-b10fb4b8b9a3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWY2ZjYxOTgtNTY0OS0zYjgwLWE4OGMtMGViMTI5ZWZkYzA1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1ab5958e-ae5c-3c45-a692-915391478895
+  config:
+    template: 1ab5958e-ae5c-3c45-a692-915391478895.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWZlMDVlYTMtZDIwNi0zNDVhLWE3ZmYtODRjNjIxZTkwNjkwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1abb60a6-e045-3d42-b63c-5908e8c35b31
+  config:
+    template: 1abb60a6-e045-3d42-b63c-5908e8c35b31.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGYyMTc5NmMtOTJiMC0zZTAwLWEwOTgtN2FlNDQxMzVmNjA2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1af57efe-7353-3b12-b474-9250f871fced
+  config:
+    template: 1af57efe-7353-3b12-b474-9250f871fced.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTM4MjcyNzQtNjZjZi0zZjVlLTk4YjUtNWFhZTg4NjZlN2Nhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1b9b6951-04cb-38f7-936f-ccbb63e36c7b
+  config:
+    template: 1b9b6951-04cb-38f7-936f-ccbb63e36c7b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmIyZDNjODgtMTQyZi0zYjU4LTkzNzAtNmNlY2EwOWIxOGI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1bf0d150-0343-3b76-82e7-6d05c624d5b4
+  config:
+    template: 1bf0d150-0343-3b76-82e7-6d05c624d5b4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzQ0NzAyNjctZjM0ZS0zZTk0LWFmYzEtY2M1Y2MwNWY2YWE1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1c4ceb16-d8f7-3c94-9af1-1ec18003d285
+  config:
+    template: 1c4ceb16-d8f7-3c94-9af1-1ec18003d285.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGVjNGU3YTEtYThmNC0zMTZiLWE1MWUtYzk5Y2UyMWE4NTdlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1c88a6fa-a20c-33b2-83a7-b3468695453b
+  config:
+    template: 1c88a6fa-a20c-33b2-83a7-b3468695453b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjQ2YmIzYWMtYjk3Zi0zOTQ1LTk2YTEtOTgxNTQ2ZjczNDlhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1ea6637b-d3a0-3668-a78c-e0725cb1303c
+  config:
+    template: 1ea6637b-d3a0-3668-a78c-e0725cb1303c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzdiNjQ1NjUtYjVmMS0zMWM3LWFiNDItOTZmZTYxNDNmMjI4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1f05e6ce-097f-354e-a054-d29ca890bbfa
+  config:
+    template: 1f05e6ce-097f-354e-a054-d29ca890bbfa.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjFiZmMzMjYtNGFjNC0zYjAzLTg2NGYtNWY3YjVhODk3NTJhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1f99518c-9411-35fc-99c1-9cba7ee3d024
+  config:
+    template: 1f99518c-9411-35fc-99c1-9cba7ee3d024.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjk5MDc4MzktMGM0NC0zNzIwLThjYmMtMzhlOTYxNWNjZTI4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 1fd7b632-430e-3b87-83e3-2af66f3c80be
+  config:
+    template: 1fd7b632-430e-3b87-83e3-2af66f3c80be.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWQ5ZjI2MGItMGE4MC0zYTdmLWFhMTYtZjAwZjZjZDlhMTMwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 200ad26b-9c73-3d83-a783-36e07687f803
+  config:
+    template: 200ad26b-9c73-3d83-a783-36e07687f803.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzNhNTRmZTItYWE4Yi0zZjQwLWExYWUtZTNkYTU2Zjc1NWVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2056e426-456f-3b93-be24-222d5c7d1591
+  config:
+    template: 2056e426-456f-3b93-be24-222d5c7d1591.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGM0MThmZjgtOGQ3Yi0zZTMzLTljMDMtNGYyZGU1MGYxOWI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2209cd43-105e-3d34-988c-8ee03a7f60b0
+  config:
+    template: 2209cd43-105e-3d34-988c-8ee03a7f60b0.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjUxODlmNTQtNjQ5Yy0zMDExLTk5NzMtOTIzZWNlZTQ5MzA0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 224a9022-19f8-3873-b08d-d50124a90bc7
+  config:
+    template: 224a9022-19f8-3873-b08d-d50124a90bc7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDZmODA5M2UtZjBjZi0zOGNmLTlhMzAtOWE2NzYwZTY1Njdlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 225c0516-ae0c-3cfd-9df9-8e506a4c1487
+  config:
+    template: 225c0516-ae0c-3cfd-9df9-8e506a4c1487.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODhlNDkwYTQtYzk4MS0zNTYxLTg2OTEtNjk2NjQ2MmJhNDc1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2297d7f1-c1e4-3e57-9083-723e4cbaec90
+  config:
+    template: 2297d7f1-c1e4-3e57-9083-723e4cbaec90.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDY5YTJlMjktYWRiOC0zM2JiLTk1NDQtODk4NTQ0NmIxYjNkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 22ac2446-d530-3e32-97c5-35ffb44db38c
+  config:
+    template: 22ac2446-d530-3e32-97c5-35ffb44db38c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjJkNTY4NDAtODUzYy0zMWI5LTk5ZjEtODY0MDFmMWQxZmEwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 22da3e2c-3ffb-30c7-87b6-84a409f7a9c9
+  config:
+    template: 22da3e2c-3ffb-30c7-87b6-84a409f7a9c9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTA1OTg3MDAtYTk3OC0zNGJmLWEwZGQtMmQ1YzVmZGJhYjEzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2367cc2b-d334-374b-a1b7-344c71b1cc51
+  config:
+    template: 2367cc2b-d334-374b-a1b7-344c71b1cc51.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmQzMTg4YzgtNGY1Ny0zNzgzLWI4NDctYjllODA0NzVmMjE5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 258f0b33-bfb0-3d84-ad4d-c79aca195e18
+  config:
+    template: 258f0b33-bfb0-3d84-ad4d-c79aca195e18.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWRjOTM3MTYtZDAzOS0zOGY3LWI3OTItYTE4N2EwODQ1NzE2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 260ce40a-1df0-3b10-ae08-d7c2ab92d859
+  config:
+    template: 260ce40a-1df0-3b10-ae08-d7c2ab92d859.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjFlMzY3MTktNDc0NC0zNTAxLTllNzItZmIzYTMzZWQ4ODZlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 26c1afc5-89ca-3640-a295-223bee6d13c3
+  config:
+    template: 26c1afc5-89ca-3640-a295-223bee6d13c3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWUxNmRiYjAtYjdjOC0zY2MxLTkzNWQtMjcwMTgyYjA2Y2M5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2772f8d0-de09-3080-80c1-8b31d536961f
+  config:
+    template: 2772f8d0-de09-3080-80c1-8b31d536961f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjE4NDg4NzgtMGZhNi0zZjg1LWIxMTUtOGY5ZGVhMGIwZDM1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 27891562-b70d-32eb-9c55-6559b4028d5f
+  config:
+    template: 27891562-b70d-32eb-9c55-6559b4028d5f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmJhYmYyNmMtMDNhNi0zNTJhLWFlOWQtMjkwYzc4ODk2ZmEzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2850cca4-8811-33ae-9f4f-6d14e6d6978e
+  config:
+    template: 2850cca4-8811-33ae-9f4f-6d14e6d6978e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjRlYTU1YmMtMjYwOS0zNTA5LWJjODYtYmJhNzM1ODJlYjBkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 28e9e166-e120-3666-9add-6e3362805ab6
+  config:
+    template: 28e9e166-e120-3666-9add-6e3362805ab6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTRhNjYxNzItYjU2NS0zOGQzLWE2MmYtZWYxZTJhMmNhOThmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 290f46e0-18c1-380d-b58a-125ff7a08f45
+  config:
+    template: 290f46e0-18c1-380d-b58a-125ff7a08f45.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTY5ZjkwMmUtMDlkZC0zMGFiLTkyNWUtZmU3MDk2MGQwNjFivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 29114317-052c-3ca8-912f-da8c7909aa3b
+  config:
+    template: 29114317-052c-3ca8-912f-da8c7909aa3b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTZlNzgxMzctZjM4ZC0zNTYzLTg5NjQtMjY2NjUxNGU2NzY4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 299c1aaa-09be-33a0-a5db-2d65a29a1878
+  config:
+    template: 299c1aaa-09be-33a0-a5db-2d65a29a1878.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWY0MjhkMTctMzM2Ny0zMTcwLTkzODUtNWM5ODViMWQ3MDAyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2a40a4ad-1ebb-3cd4-8415-f3394f5df103
+  config:
+    template: 2a40a4ad-1ebb-3cd4-8415-f3394f5df103.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmE1ODFkODQtZTk3Yi0zZGY2LWFjZTYtNDkwYjY3YzcyNGVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2b2cd0af-e6cf-3e36-afd6-315196d06996
+  config:
+    template: 2b2cd0af-e6cf-3e36-afd6-315196d06996.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2FkYjc3YzEtNzU1MC0zOGUzLTk4ZmItODJjZjdhYzFmYzNivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2b47a09f-9309-32ee-b5e3-77f3a2757ecb
+  config:
+    template: 2b47a09f-9309-32ee-b5e3-77f3a2757ecb.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmMxYjgyZGItMGM0OS0zZjAyLTliNGQtOTlkMTBlMzNjNzhhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2b500a16-6416-36da-a09f-e6aa8d2b0903
+  config:
+    template: 2b500a16-6416-36da-a09f-e6aa8d2b0903.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmIzMmIwMTUtNTk3MC0zNzVhLTljOTAtODljMzQ1NDFlM2Nlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2b72e735-4030-34e5-8800-7389db4c5d57
+  config:
+    template: 2b72e735-4030-34e5-8800-7389db4c5d57.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDg5NTVlNmUtN2Q0Yi0zNmNjLTk4ZjUtOTk1MDI5MTk5MGI3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2bc699c3-260f-394f-897a-2feb89fc1d97
+  config:
+    template: 2bc699c3-260f-394f-897a-2feb89fc1d97.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTBmNmMxYjQtNWNmMC0zOGVkLWE4OWUtNjIyZGNkNDQ4ZjE4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2c953e1f-05a0-3163-aef6-491e220acdca
+  config:
+    template: 2c953e1f-05a0-3163-aef6-491e220acdca.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjMyNDU5NTUtYjUyNi0zMzE0LWJhZDctY2I5ZThiZDVjNDY5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2d006129-17d0-36cc-906a-68acde4fd5bb
+  config:
+    template: 2d006129-17d0-36cc-906a-68acde4fd5bb.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2ZiZDJmYzItMmU3Yy0zMDc2LTllNTktMWI2OTVhOWM4ZDAzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2d04d5e6-0ca5-3b22-8301-9500748ee444
+  config:
+    template: 2d04d5e6-0ca5-3b22-8301-9500748ee444.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDc5OWVkYzktZDFkZS0zN2ZhLWJiYTgtMzAxZjQzMWZjNDdivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2d71527b-ffca-3f92-866e-af42986b0715
+  config:
+    template: 2d71527b-ffca-3f92-866e-af42986b0715.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmRmNDJhZDctM2E1YS0zYTU1LThkZmItOWIyOTk1YTRjN2Jkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2e7f3191-0813-384f-8984-8484d5ca033b
+  config:
+    template: 2e7f3191-0813-384f-8984-8484d5ca033b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTk2OTY0YjUtZTk1MC0zYWI4LWIyMDYtNWI4OGUwNmJhZWNjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 2ededb1f-9443-3ed1-a1bf-e78a40a043c9
+  config:
+    template: 2ededb1f-9443-3ed1-a1bf-e78a40a043c9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWQyMjA2ZDctODlkNy0zZGM1LTk2ZTMtOGQzM2FlNjMzYjIyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3092b16d-be33-326e-817f-e1b7b0c0d08b
+  config:
+    template: 3092b16d-be33-326e-817f-e1b7b0c0d08b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzVkZGM2MmYtNjI3OS0zZjU4LWIxYzgtYWM5NWZmNWE1YWNkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 312131d5-0334-3be8-b604-9b6c91fc85d5
+  config:
+    template: 312131d5-0334-3be8-b604-9b6c91fc85d5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWI4ZWM3MzAtMjg5NS0zNDlmLThhMTMtMjhlZDBmNzNmOTBmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 31748768-153c-3be7-a918-cf849873bcbb
+  config:
+    template: 31748768-153c-3be7-a918-cf849873bcbb.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjI0MjJiMWMtMDZmMS0zMDVkLTk1ZTMtMThhMDA0ZDI5MTNkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 31f5b719-3a7e-3b20-835b-6ea2e12f033d
+  config:
+    template: 31f5b719-3a7e-3b20-835b-6ea2e12f033d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTU0YzlmM2QtNmMyZS0zNzU5LWExODItMDk1MWVjNWJjYWQxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 341221be-b7c6-3e46-be19-295db280ca92
+  config:
+    template: 341221be-b7c6-3e46-be19-295db280ca92.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWRkOWE1YTAtY2MwZi0zOTRmLTgxOGMtZTY4YzdlZGZlYTU2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 34228df7-58e5-3bf9-bdfe-8861a930c350
+  config:
+    template: 34228df7-58e5-3bf9-bdfe-8861a930c350.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjlmMWMxZTctNTgyYS0zZTdiLTgxMTEtOWJmN2MyNmIwYTA2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 34d0421c-b0a3-35b2-94f0-09ed4ed08874
+  config:
+    template: 34d0421c-b0a3-35b2-94f0-09ed4ed08874.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDViZGRiNTAtMThjMC0zZTNhLWJlZTYtMDcyNTJhNDMyMzFivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 34e0c1df-1344-3ed0-abaa-7a258ec7ad6c
+  config:
+    template: 34e0c1df-1344-3ed0-abaa-7a258ec7ad6c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjg2MzEzOTgtMTViNi0zN2ExLWIxZWQtMTc2ZjA0ZTI5Njgxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 35178601-883a-3ca3-9835-6c3cd466b35b
+  config:
+    template: 35178601-883a-3ca3-9835-6c3cd466b35b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmVjNWY5NTctNzQ0YS0zNjE5LTkxNGEtMTM0ODA3NWU5NGU3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3548604a-1fec-386c-aea1-b92da56cea7e
+  config:
+    template: 3548604a-1fec-386c-aea1-b92da56cea7e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmU3Njc5NjYtYmQzYy0zM2UzLTgzNTktOTQyOTkyZDFkNmM2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3564fa38-7245-3642-8c24-e8431c49f7ce
+  config:
+    template: 3564fa38-7245-3642-8c24-e8431c49f7ce.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTA3NmM0YTQtNjAxYi0zNDk5LTg4YmMtMGFkMzYxY2MyNzMxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 380109ff-dea6-3d74-8edd-4200944cc148
+  config:
+    template: 380109ff-dea6-3d74-8edd-4200944cc148.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjE4OTUyZWItNjMwOC0zODMzLWJkZTQtOGYxZGQ5NTUwY2Yzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 39a3b809-713e-3976-840c-378204d3534e
+  config:
+    template: 39a3b809-713e-3976-840c-378204d3534e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjQ5ZmM4ZWEtYjYwOC0zZWU3LWJhMGEtZmI2NmE5YzY4NTgzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3b09c97a-6302-3a01-b214-ad1e8b8b1481
+  config:
+    template: 3b09c97a-6302-3a01-b214-ad1e8b8b1481.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmVmNmNmZmMtMzY1MC0zYmQxLWI1YTItOGM1NTA1OTFmMTg4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3b7f6a8d-510b-3c36-af8b-b9d34e3b1b4d
+  config:
+    template: 3b7f6a8d-510b-3c36-af8b-b9d34e3b1b4d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWQ5MjA1NGMtZWQ0MC0zY2U3LWE3MzItOTgxMDhkMTQ5NmRivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3c6da294-1d1a-3e48-9945-ead00f041782
+  config:
+    template: 3c6da294-1d1a-3e48-9945-ead00f041782.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTUyYjYwOTUtM2JkNC0zYzNhLTgwNTgtYzU1NmMwOGE1Yjk0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3cbb1c1c-5f56-3371-9c4a-3394639e3ad7
+  config:
+    template: 3cbb1c1c-5f56-3371-9c4a-3394639e3ad7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTlkNGU1NDktNjlmZS0zMWQ0LTljZTYtYjkzMzlmYjM5OTVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3d46afe5-0a95-3b44-8e36-f465388e4e7b
+  config:
+    template: 3d46afe5-0a95-3b44-8e36-f465388e4e7b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWJiMWI3NzAtOGQ2MS0zYzRjLWJmZjktMDhlZmQzOWMyMmVhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3e8b2510-2bb1-3f19-9b37-eb68a342740f
+  config:
+    template: 3e8b2510-2bb1-3f19-9b37-eb68a342740f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTNmYzdjYTgtYjY2MC0zNGVjLTk2OGYtZDJjNjFiZjVlYzNjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3ec05ce4-8f08-3c00-aacd-7bb9d8e89365
+  config:
+    template: 3ec05ce4-8f08-3c00-aacd-7bb9d8e89365.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTI1YjU1YjYtY2Q3ZC0zM2MyLWEyNzQtYjM0NWZmZjNkYmQzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3f0062fa-fccf-3712-93da-f7cec4bf47cf
+  config:
+    template: 3f0062fa-fccf-3712-93da-f7cec4bf47cf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWNkMDUxOTMtNGY5MC0zYjlmLTgxZjgtYmIzM2UwZGZlZjQxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3f521d90-158e-3de1-af11-338cef71c96f
+  config:
+    template: 3f521d90-158e-3de1-af11-338cef71c96f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzUxYmRhOGEtZDIyMi0zMzNjLWE1YjktNjAxZDdjMjY0ZThjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 3fb8c7c3-aca1-3507-a186-2fdb8fb3fdcc
+  config:
+    template: 3fb8c7c3-aca1-3507-a186-2fdb8fb3fdcc.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTQxYzEyMWMtODFlNy0zYjcyLWI4ZjctM2Y0YzZmNzZmMGI0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 40477e20-3cf2-3866-9d3f-4472437f75d3
+  config:
+    template: 40477e20-3cf2-3866-9d3f-4472437f75d3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGJkNWI5NGMtNzc1Zi0zNjI0LWIzMzAtOWQ4ZjQ5NzRlYTBmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 40c1275a-4478-3bd3-9360-db62b50d05ef
+  config:
+    template: 40c1275a-4478-3bd3-9360-db62b50d05ef.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmNhYmVjODktZDNhZS0zYzg3LWIzYzAtMGVmNmYzOGVkOTgyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 40c8f6b9-43d0-3579-8420-8f0ea75ac10a
+  config:
+    template: 40c8f6b9-43d0-3579-8420-8f0ea75ac10a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjg1YWMwYjYtZTE0MC0zYWMwLTgyMGUtZWU1ZDA1NzNjMGYzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 41e2a271-1d4e-313a-9dcc-63dbe6e91075
+  config:
+    template: 41e2a271-1d4e-313a-9dcc-63dbe6e91075.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWMzNDdmODQtMTUxMi0zNTBiLTg5YTEtNDFiYWZhMzBmZGVmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 423753d9-9e74-399c-91cb-7673b03df229
+  config:
+    template: 423753d9-9e74-399c-91cb-7673b03df229.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDRmZjI0NzAtMGE5NS0zNDVlLWI5NDQtZDI5YTE4MWYyYzVmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 43850437-7dfc-3898-a5e0-30b37b449f3e
+  config:
+    template: 43850437-7dfc-3898-a5e0-30b37b449f3e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzU4NmM4MGMtNzNhZi0zZTZiLThlMTEtMjNmN2NiZDkzZDhlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 43aee262-3bab-381b-b37f-71376e08ecf8
+  config:
+    template: 43aee262-3bab-381b-b37f-71376e08ecf8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTRjZWViMmUtZWU1NS0zYzg5LTllYTgtZWQzYzE3NThkM2Rlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 43c7f367-d146-3c71-b05e-9ce3ce65bc58
+  config:
+    template: 43c7f367-d146-3c71-b05e-9ce3ce65bc58.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGY4YWJkYjAtNzY4NS0zZTMxLTg3ZjItNjU4YTliMDRhZTdlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4405e789-333d-31ba-8552-6611bc6d16bf
+  config:
+    template: 4405e789-333d-31ba-8552-6611bc6d16bf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmZmZWMxNWUtYjNkZi0zN2FiLWJkMTgtMzVhMmQyYWM1NDdjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 44c3af26-03c8-3dde-9c3e-7ff0ee8be92c
+  config:
+    template: 44c3af26-03c8-3dde-9c3e-7ff0ee8be92c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGI2Y2ViMjAtY2JlMC0zMTg0LWFkNDItOGQyYWFjOTQ0NWVmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 44fcb68e-b04b-3b4d-9b8f-4a0a4d921f1f
+  config:
+    template: 44fcb68e-b04b-3b4d-9b8f-4a0a4d921f1f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGM1YWY0NDUtMDM3Yy0zNzc1LTlkOWYtOTQ3MjJiNTg2MDY5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4649c1cc-31fd-3764-934a-904cf080f9ed
+  config:
+    template: 4649c1cc-31fd-3764-934a-904cf080f9ed.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjcxOTVhZWMtMWE5Yy0zY2E1LTg2NzItYWIxZTI5OTU1Mzkyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 46fe6c1e-bd9d-36cc-8e0f-932966ece9b1
+  config:
+    template: 46fe6c1e-bd9d-36cc-8e0f-932966ece9b1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzYxNWQyZmYtOGUwYy0zM2QxLTgyNjgtZTkyNDZkOTFiMmYyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 47bedc84-1d4a-30db-befa-8c1b16601eda
+  config:
+    template: 47bedc84-1d4a-30db-befa-8c1b16601eda.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2VmZjUyYWMtZmE1Yy0zNjg1LWJiZDAtOTBjMmJmYmYzNWQwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 48c0c63e-06c1-35d1-9d2c-5ca47526d4be
+  config:
+    template: 48c0c63e-06c1-35d1-9d2c-5ca47526d4be.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjFjODY5YzYtZTA1MS0zM2M3LWExNjAtMTNmNmJlZDQxMDE2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 48e6f352-2702-32ef-8171-9e90d0b2c1a7
+  config:
+    template: 48e6f352-2702-32ef-8171-9e90d0b2c1a7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTQ0YmY5NTctOWU0OC0zMjg5LWJjNTktNTFiZDViNzljOTRlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4a2126d2-94fb-336f-a707-f5e16a639c97
+  config:
+    template: 4a2126d2-94fb-336f-a707-f5e16a639c97.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGZkY2ZiOTYtMzkyZS0zYTc3LWExMmQtNDIyNTEwNzkwYjg0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4a9920e3-8a4a-3aea-8b83-abb8559d1094
+  config:
+    template: 4a9920e3-8a4a-3aea-8b83-abb8559d1094.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzgyNDQ3NjAtZGE0MS0zMDcxLWEyYzUtYTM5OTRmOGYwYTMwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4aac817e-a339-3439-9b42-c6c7ca739cbf
+  config:
+    template: 4aac817e-a339-3439-9b42-c6c7ca739cbf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTZmMmRlOTctM2Y5Ni0zMzFkLThhOTYtYWExNjk2MTE5Mzg3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4ab5fab7-2fbf-3bd9-85ba-a4ed6072dc81
+  config:
+    template: 4ab5fab7-2fbf-3bd9-85ba-a4ed6072dc81.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWIxYmVlM2ItYTk3Yy0zNDI0LWI2Y2MtMTA5YWQ0ZmYyMTU4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4b124330-2c29-3a77-8de4-ae34b7526ef3
+  config:
+    template: 4b124330-2c29-3a77-8de4-ae34b7526ef3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDAxZGZkMDMtMmIzZC0zMjU2LTgxODctOGM3MWUyYzllZTMxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4b19169f-93b7-313a-9c70-a602d82ab65a
+  config:
+    template: 4b19169f-93b7-313a-9c70-a602d82ab65a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODdjZDhmNzEtMDI4MS0zZGM5LWEyNTMtZjQ5Yzg1MWU3ZDkyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4bd59c9b-53b6-3fb7-a7bc-1ff4cd0cb12f
+  config:
+    template: 4bd59c9b-53b6-3fb7-a7bc-1ff4cd0cb12f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDFiZWJjNTQtMTczNy0zMmZjLTkxYjYtNGIwMzEyYWY4ZGExvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4c1e602d-e8fa-3352-bcc7-2b2e96e10709
+  config:
+    template: 4c1e602d-e8fa-3352-bcc7-2b2e96e10709.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzczMTZjMmYtNDAyYi0zMmIyLThlNmUtZTg4NDlkMjU4Yzc3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4c421a3a-2160-3789-ba89-2ce21680d9c8
+  config:
+    template: 4c421a3a-2160-3789-ba89-2ce21680d9c8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjFkOGY2ZTMtYzI5OS0zYTVlLTk4OTYtMTFkOTNlMDYyMmQyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4c587864-bc20-3748-95b7-14d2eaffc0b9
+  config:
+    template: 4c587864-bc20-3748-95b7-14d2eaffc0b9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjhiNzkzNjAtOWRmNi0zNDgzLTllODUtZTkwZWY5ODg0NGFkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4d8b6467-ca52-3611-a402-40a2cc4834ef
+  config:
+    template: 4d8b6467-ca52-3611-a402-40a2cc4834ef.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWQzMjA1MzAtMDJkOC0zOGJkLThmOTctNWNmMmU3NTkxN2Eyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 4e8a396e-8a43-3880-8910-c6367c2c3cab
+  config:
+    template: 4e8a396e-8a43-3880-8910-c6367c2c3cab.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjU5OTc3Y2EtOGMyYi0zMGFlLThhMzEtY2JiNTM4YWI5NDEwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 508973ed-b8b6-3ab2-9e2f-7b0d925b1261
+  config:
+    template: 508973ed-b8b6-3ab2-9e2f-7b0d925b1261.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDU5MzM5MmQtOWU4Yy0zNmQ0LTlmNDgtZTU4Nzg2Nzc5ZTM1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 50b92fc7-2f2c-3b5d-809c-e42ef3f0b85c
+  config:
+    template: 50b92fc7-2f2c-3b5d-809c-e42ef3f0b85c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzVmMTg1YjEtNzJjZC0zYWY5LTg0YTQtZDAxZDQ2NzExZWVkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 51c25a6d-b0da-38e2-937c-9e8e521a603c
+  config:
+    template: 51c25a6d-b0da-38e2-937c-9e8e521a603c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDEzYjE4ODktOTFhNy0zNDNhLWE5ZmYtOTdiYjFhOWVmZmY1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 52d7c7bb-0108-3fc6-abd8-bdeaa6ef0b53
+  config:
+    template: 52d7c7bb-0108-3fc6-abd8-bdeaa6ef0b53.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTdjZjcwNjItYTQyZi0zYTEwLTkxOGEtMzA5MGFhOGNiYzllvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 53e22c17-9c3d-3bb2-b330-5fd749aa8fc4
+  config:
+    template: 53e22c17-9c3d-3bb2-b330-5fd749aa8fc4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjA4ODEyYzAtZTQ2Zi0zZTg1LTljNDEtMDIxZGYwN2FhNDRlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 54e916ba-e816-39d7-9639-118e521af784
+  config:
+    template: 54e916ba-e816-39d7-9639-118e521af784.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzg2NjZkYTItZDJjMC0zOTA4LWE0ODctZGU4N2QwMDdkMDg5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 565e4525-a259-3d83-9085-6a6b12ee7579
+  config:
+    template: 565e4525-a259-3d83-9085-6a6b12ee7579.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjJiYjdhMTYtZTJkOS0zYTg2LWEzNDgtZDQ4Mjc3ODY3NjI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 569336e3-d9b6-3bed-9148-ab552e284bdc
+  config:
+    template: 569336e3-d9b6-3bed-9148-ab552e284bdc.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDYzMjgwNDMtZDFhMS0zNTUyLTlhM2ItZjM3NzgwYWFkM2Fjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 569a3120-3d07-3ba4-9b0b-ac5ae9fba656
+  config:
+    template: 569a3120-3d07-3ba4-9b0b-ac5ae9fba656.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmNkZGMxYWEtNmRjNS0zODEzLWE4Y2YtMjI1MWE4ZjdlZjg1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 56c72eb0-e41c-318b-9b7f-fe85f1ec2ad3
+  config:
+    template: 56c72eb0-e41c-318b-9b7f-fe85f1ec2ad3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjY0OWMwYWMtYWVjNy0zODliLWExYzUtZDFmNWUyNTI3YTZjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 58af5564-aecf-3b96-830c-db6c8ea1ca71
+  config:
+    template: 58af5564-aecf-3b96-830c-db6c8ea1ca71.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzljOGUwMjEtODA0NC0zZjM1LTk1M2QtODA2ZWQ5ODA5NmRjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 58cb25a3-4f5e-36b9-9946-6d79be662ecc
+  config:
+    template: 58cb25a3-4f5e-36b9-9946-6d79be662ecc.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmUzNjAxNTktMDM5Yy0zM2NlLWE4M2UtY2NhMWM0Y2RkN2Vlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 59e0f953-db7a-3dbb-80c7-a2f17c24f10c
+  config:
+    template: 59e0f953-db7a-3dbb-80c7-a2f17c24f10c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGZmZDdiNzUtZTQ3My0zNGEwLWI1MDktMjlhODEzYTdhYWJhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5a00152f-7897-3cc0-a3a1-69b9f67da89a
+  config:
+    template: 5a00152f-7897-3cc0-a3a1-69b9f67da89a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTEwZTRiYjktZTUwZC0zNmMwLTg2NWUtMzViNDkyNjQ0OGI4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5a0100d4-0427-3d38-af20-5e43a4a2a751
+  config:
+    template: 5a0100d4-0427-3d38-af20-5e43a4a2a751.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzUwMGE1NDgtZDUzMC0zMGMxLWFjYWItMjM5ODQ0ZWYzZWI4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5a207de4-9355-3d07-a7ae-6d07c7523f3b
+  config:
+    template: 5a207de4-9355-3d07-a7ae-6d07c7523f3b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmRhZmQ2NjktOWJlNS0zZDdiLWIzZDMtYjMwYWEzNzU3N2Vkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5a4bb4d6-804f-36c1-82b6-c211109fca1c
+  config:
+    template: 5a4bb4d6-804f-36c1-82b6-c211109fca1c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGFkZDRlYzktZDg1Mi0zMzc5LTk5NGUtM2U2NzQxYjhiNTU5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5a6de727-d047-3f4f-8dfe-8222828cafce
+  config:
+    template: 5a6de727-d047-3f4f-8dfe-8222828cafce.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzMyNDYwMjctMzI2My0zYzNhLTlkNjgtMmUxOWE0MzM3ODNlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5a8145a3-13e2-3709-9168-80545952e7ad
+  config:
+    template: 5a8145a3-13e2-3709-9168-80545952e7ad.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmI2ZmQ1NDMtM2I0ZC0zZjVkLThmYjEtN2IxMmE0YjUxNTk1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5aca53fe-aeeb-34b3-80af-2fa5cba7609e
+  config:
+    template: 5aca53fe-aeeb-34b3-80af-2fa5cba7609e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWJjN2JlYzMtZDFjZS0zMDljLWJhOGMtNWM0ODI3YmI5ODYxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5b14d958-27cc-3278-b0f6-79d94446c6fe
+  config:
+    template: 5b14d958-27cc-3278-b0f6-79d94446c6fe.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTY4OWQxZDEtZDNjZC0zMDU5LTlmY2ItNTc3MzMyOTQxMjFmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5b94683f-8e21-3886-9129-3b32c5861183
+  config:
+    template: 5b94683f-8e21-3886-9129-3b32c5861183.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmY2Njk4NGQtY2U1NC0zNjg2LWIxZWItMWQ2NzU0MzI3NzA5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5bcb2942-74e1-3077-94ee-9efa11d83c20
+  config:
+    template: 5bcb2942-74e1-3077-94ee-9efa11d83c20.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWIzODFmZjQtNjM3MS0zM2QzLWI3NzQtNjg1ZWE2MzE3MmE0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5c601792-9ad0-30db-aa44-b6d668530629
+  config:
+    template: 5c601792-9ad0-30db-aa44-b6d668530629.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmU1MjE2OTUtZTY5YS0zNzczLTg1ZGItYzEzNDFlZmVkOGQ0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5cd5a57f-7d7c-31e0-b984-3cd0df68ce87
+  config:
+    template: 5cd5a57f-7d7c-31e0-b984-3cd0df68ce87.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjdhOWQ0MGYtYTY3OC0zMzQyLWFhMWItOWYyNTczY2RlMGE5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5d2785c0-fe36-39a5-bfc2-2c1bd4cf9bd1
+  config:
+    template: 5d2785c0-fe36-39a5-bfc2-2c1bd4cf9bd1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzYwYTgxNzctMWExOS0zNDEyLWI4NTEtY2YwM2ZhZGE3YmIzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5d5dc0bf-e5f6-355c-8cf5-6b06bf144a89
+  config:
+    template: 5d5dc0bf-e5f6-355c-8cf5-6b06bf144a89.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2MwYmYzYjItY2YxMi0zMmFiLWJlNzMtNDI1Nzg3MDA2ZWU0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5da7f39e-25ca-340d-8c8c-fefa446e6b7b
+  config:
+    template: 5da7f39e-25ca-340d-8c8c-fefa446e6b7b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzEwYjkxN2YtYTM2Ni0zZjk1LThlMWQtNmQzZmI0Yzc2MWMzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5dcb05dd-60f6-3feb-a2f8-24a9b7ed767e
+  config:
+    template: 5dcb05dd-60f6-3feb-a2f8-24a9b7ed767e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjZjYWM5YjUtNjZlMi0zMWFhLWE1OWMtYzQ2Njg0ZTU1YTEyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5de4e7c7-777a-3fd3-b5eb-b8975c90a9da
+  config:
+    template: 5de4e7c7-777a-3fd3-b5eb-b8975c90a9da.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTg0NTczOTItZTUzZi0zOTczLTkyMTQtZjY4NmIyNTIwNGVkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5dff4132-dbc9-3a5f-b4ce-40fb0cbdab35
+  config:
+    template: 5dff4132-dbc9-3a5f-b4ce-40fb0cbdab35.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzUzMzczOTktODIxMC0zY2JiLWIwZjYtYjEzOTZlZDM5MzNivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 5ff3e696-87e1-32ca-acb2-e0e122a12c34
+  config:
+    template: 5ff3e696-87e1-32ca-acb2-e0e122a12c34.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTFhMjI5ZjgtZGRmOS0zOTVkLTkxNWEtNjdmMjE0MWMxM2Q1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 60558342-5614-3fd3-8919-4127c3127f12
+  config:
+    template: 60558342-5614-3fd3-8919-4127c3127f12.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzcxZGY0MzItZWMyYy0zMTBkLTk2NmItNjg1NGI5YjAyYWU4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6093ec76-b884-39cc-8e2b-4c0761c3bce8
+  config:
+    template: 6093ec76-b884-39cc-8e2b-4c0761c3bce8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzY2M2IxN2EtMDU1Yi0zNGZiLTgzODAtN2I1ZTY4YTk4MDVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 60cc473c-7b4b-3e14-8dec-c4750b60d077
+  config:
+    template: 60cc473c-7b4b-3e14-8dec-c4750b60d077.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmM2YTlhYTEtZDU0My0zZjA1LWFlM2YtMDBlYzJkZWVkMGQzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 60d28bc8-29a3-3360-a1d7-010d81552813
+  config:
+    template: 60d28bc8-29a3-3360-a1d7-010d81552813.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTE3NTNlMWEtYzE1Yi0zOWI4LWI4NDctNGFkOWVkN2Q3OGU2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 615486ff-cdd8-3be3-88b7-d0b8f13c4d3f
+  config:
+    template: 615486ff-cdd8-3be3-88b7-d0b8f13c4d3f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjYwM2EzY2EtYmNjOC0zZTI2LTgyYjEtZGIxYzYxYmVkMTE4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 61784adb-1036-36b9-8988-949986aa8002
+  config:
+    template: 61784adb-1036-36b9-8988-949986aa8002.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTI0MTYxNDUtZTg2ZC0zYTU3LWJhMzEtNTEwZWRhZDFiMDhhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6187afce-a9f1-3274-b1ef-6c3fcabb012a
+  config:
+    template: 6187afce-a9f1-3274-b1ef-6c3fcabb012a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmQ1N2M0MTEtZjc5OC0zNzVmLWE3M2ItNTNjYzk4OTkzNDAyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 61bee526-e451-31d0-bb6e-f8f79f137361
+  config:
+    template: 61bee526-e451-31d0-bb6e-f8f79f137361.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmZmNGY0MGQtZmE5Yy0zM2YxLTk4MzEtNzQ3MzQ5ZTAxY2U5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 628e531d-7bcf-3b13-b7cf-08354212fe46
+  config:
+    template: 628e531d-7bcf-3b13-b7cf-08354212fe46.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjlkMjVlZDYtNzRlYS0zOGVjLWFmNTAtYzA0OGM3YzVlZDhkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 634e12fa-b027-3aa9-b31e-bea454cd89e2
+  config:
+    template: 634e12fa-b027-3aa9-b31e-bea454cd89e2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGM4ZDljYjUtYTA1Yy0zM2ZlLTkzMWMtYjUyZjEyYzI1OTI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 635ce75a-9a14-34cb-964d-523dd33302f0
+  config:
+    template: 635ce75a-9a14-34cb-964d-523dd33302f0.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDY2OWI2NGMtN2IxZS0zMGYyLWIxOTYtODQzOGQ0YmIzOTUzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 63d57e55-be98-3695-93fd-ef6ad321f3e7
+  config:
+    template: 63d57e55-be98-3695-93fd-ef6ad321f3e7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmJiMjM3NTctOTEwZi0zZjg4LTlmOTEtZTkxNWEzNDVmMjc1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 658bf75e-d695-37a2-b090-f0caad272b9e
+  config:
+    template: 658bf75e-d695-37a2-b090-f0caad272b9e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTg1M2QxNjgtNmU0ZS0zMmU5LTlmNDMtODQ0NGYzMGNkZjQ5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 664c048e-186a-3ab8-835f-70fe5cb5d75b
+  config:
+    template: 664c048e-186a-3ab8-835f-70fe5cb5d75b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDQyYWNhNmUtZDQyMy0zZGU1LWFhMDUtNTdmNzBkYzQyNzg4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 66543c80-509e-3614-9b62-e02155fe0599
+  config:
+    template: 66543c80-509e-3614-9b62-e02155fe0599.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODY3OGJiZjItNWM3ZC0zNDdmLWFhMTctODA4ZjNiZDA5MTZhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 66834b0a-9b71-3556-b80a-8b1ddc5fce54
+  config:
+    template: 66834b0a-9b71-3556-b80a-8b1ddc5fce54.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTY3ZDdkY2YtMTdmNi0zYTg3LWFlNTAtNmE2MmFlMDc0NjNivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 66d8db72-b47a-3221-b93c-d8a4ccc3589e
+  config:
+    template: 66d8db72-b47a-3221-b93c-d8a4ccc3589e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGUyMTlkNGEtZjNlNC0zNjUzLWIwY2UtNTg3ODU5ZWRiODdkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 670c9f93-b2d8-3cd5-8368-e08473761628
+  config:
+    template: 670c9f93-b2d8-3cd5-8368-e08473761628.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDZjNWYwNWUtMzY3ZS0zZDAyLThkNGYtMjEzZjcxODJhMDc1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 675533ca-3bc1-39fb-94ea-1ee9c100cca8
+  config:
+    template: 675533ca-3bc1-39fb-94ea-1ee9c100cca8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTg5YmU3YjQtOWFkZS0zMmVlLTk1OTAtZDhhNWUxN2M5ZDgxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6806367d-4471-3465-a0bc-6b49ee0ac596
+  config:
+    template: 6806367d-4471-3465-a0bc-6b49ee0ac596.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjQ1YTQwOWUtNjIwMS0zNTJjLWJkMjYtZWE2MTdhYWM2ZWM4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 68aa395b-4001-30ec-8b67-7bb33e09149e
+  config:
+    template: 68aa395b-4001-30ec-8b67-7bb33e09149e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmFlMGJiNWMtMmFiMi0zMjA3LTkyMzctM2UyM2QzYjkwZTg2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6964d7d1-7d2a-3f02-a537-a718fd3473f6
+  config:
+    template: 6964d7d1-7d2a-3f02-a537-a718fd3473f6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjU0M2U0MzItYmE4Ni0zYzM5LTk2NmMtZjVlYWM0ODY3OTljvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 696f7e7d-7a6f-3ce0-942a-f11e38f4181b
+  config:
+    template: 696f7e7d-7a6f-3ce0-942a-f11e38f4181b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWQwMDhhYmEtYjhjZC0zM2RkLThmMjctOTAzOTVhM2ExY2Yzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6b7072db-4edb-355e-979f-7427ff8eae2b
+  config:
+    template: 6b7072db-4edb-355e-979f-7427ff8eae2b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzU5NGY5YWYtNjZkNC0zNGYyLTg0ZTItZWVmNDdkMDk2ZWQ2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6ba3d8fa-7efd-3387-9b30-7bd8b734ecbd
+  config:
+    template: 6ba3d8fa-7efd-3387-9b30-7bd8b734ecbd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzgyODAwZWMtYmRhYi0zMmM3LThhMDItZDNmM2QxOThjMDllvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6c122338-4dfa-3f32-a83a-ea7919decee5
+  config:
+    template: 6c122338-4dfa-3f32-a83a-ea7919decee5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTVmOWY2OWQtNGE1NC0zYWNkLWE4YTUtOTc2NjUzOTc0MTc2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6e5f6293-85ea-3161-838f-95ea31b887ab
+  config:
+    template: 6e5f6293-85ea-3161-838f-95ea31b887ab.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTY3MjAzZjUtNDZmNC0zZjEwLTg3YTYtNTQ5ZmEyMjVjNmVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6ebdfe56-396c-3c0a-94ef-6b2e42339c7a
+  config:
+    template: 6ebdfe56-396c-3c0a-94ef-6b2e42339c7a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTI3MGY5NWItNzZjYi0zNjg2LTkxNWYtODE3NGI2OGZhYjJjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 6ee2a284-15cf-3efb-9559-191ce6c4cd83
+  config:
+    template: 6ee2a284-15cf-3efb-9559-191ce6c4cd83.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTY0NmI1NmYtZTliZi0zNmMxLWJlMDUtZjRmZGVlY2ZjMTQ4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7090ddb9-5c45-3f24-bd3f-08b8fb3ed302
+  config:
+    template: 7090ddb9-5c45-3f24-bd3f-08b8fb3ed302.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmZjMWRiZjEtM2IwNy0zMjgxLWFjNTUtYTFkMzE5YzcxODQzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 714fbac8-e9c3-35eb-9eac-b37d1f0fb1ee
+  config:
+    template: 714fbac8-e9c3-35eb-9eac-b37d1f0fb1ee.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDdhZmJiZTgtNWNjYS0zNWFiLTkzMDMtMjJkODMzNjFkNjQxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 71f9fec7-5057-3b55-a327-7db77de11d44
+  config:
+    template: 71f9fec7-5057-3b55-a327-7db77de11d44.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWU0OTdjZDUtZTkxNC0zOWI0LTg1YjMtMjMyYzA4NTcxNmQwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 72819a14-0aaa-39ed-93f9-3c1833b0c307
+  config:
+    template: 72819a14-0aaa-39ed-93f9-3c1833b0c307.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzAxNGFkYWUtNzMxNi0zMWU5LWI0YjctNmFiNmU0ZWI0Y2Vkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 728f2995-6d56-3a9d-8b90-2329d25e7420
+  config:
+    template: 728f2995-6d56-3a9d-8b90-2329d25e7420.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGU4MGYwMzUtZmUzYi0zZGM3LWI4YmMtOTJiYmNhMzNiNzMyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 72d3a4bb-7102-3282-af06-e5dc5931e6ce
+  config:
+    template: 72d3a4bb-7102-3282-af06-e5dc5931e6ce.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDY3ZjU0NjktNjk4NC0zZWExLWI0M2UtNzQ3ZGRmMDY2MTNlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 730d50b9-f01e-3e90-98ac-afa9d9fa560c
+  config:
+    template: 730d50b9-f01e-3e90-98ac-afa9d9fa560c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjFlMjkyYzMtMjBjOS0zMTEyLWFmNTMtNzFkMzI0MmE4NWRhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7345971d-dad0-3c5d-a6f8-ff10ef8a71db
+  config:
+    template: 7345971d-dad0-3c5d-a6f8-ff10ef8a71db.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjBlMTBiNWItNmVlYy0zODAxLWI4M2ItOGNlMjBjMWYxMWM5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 745baaf8-bc11-35e6-a155-3cae33bdbe47
+  config:
+    template: 745baaf8-bc11-35e6-a155-3cae33bdbe47.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzk1NTBjMzYtZGZmZC0zOTQ2LWE1MzgtYmNkYjExMGQzMDg3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 751b39eb-ce11-3f33-9428-840d6cf67569
+  config:
+    template: 751b39eb-ce11-3f33-9428-840d6cf67569.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmIzYmJmMDMtNDA2ZS0zNmYyLTk2ZWItMzgwZDZiNDc1MmU4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 753eca24-7082-3111-86e5-8f1e1cb8c56f
+  config:
+    template: 753eca24-7082-3111-86e5-8f1e1cb8c56f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTI4ZGRlMDItNDdhNC0zMjJlLTlhMDYtNTY2ZGI1YTczZGY4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 75982e4f-9a33-38ff-bcc2-6c9615ed0634
+  config:
+    template: 75982e4f-9a33-38ff-bcc2-6c9615ed0634.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTQwNThhNjgtYjNlZi0zZDVhLWE3MmEtZTk5MjljZGE4NTYxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 76416c76-84d1-3c17-a081-b1ca9337a05b
+  config:
+    template: 76416c76-84d1-3c17-a081-b1ca9337a05b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjQ3NmJmOWEtMjQyNy0zMDE3LTg3NWEtNDM0ZjY1ZGRmODkzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 76832e69-822e-3bfd-8eb9-ee082680c5dd
+  config:
+    template: 76832e69-822e-3bfd-8eb9-ee082680c5dd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzkwYWI0OTQtMDU3NC0zMGYzLThlZjYtY2ExNjQ4ODk5MGE1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 768b61db-b73e-3dbe-9102-4b6763af95f7
+  config:
+    template: 768b61db-b73e-3dbe-9102-4b6763af95f7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTVhMDA5ZjgtOTU4Mi0zNzU1LWIxZWEtYTE1YWNiNjYyMTVlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 76d81316-0c5f-30c1-84af-95887b4d1322
+  config:
+    template: 76d81316-0c5f-30c1-84af-95887b4d1322.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTlhNGE5NmUtOTI5OS0zYzk5LWJiMWMtODU1MzNjMTEzYmZjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 772cfda2-1dd6-32e5-8b99-a09e9dc842da
+  config:
+    template: 772cfda2-1dd6-32e5-8b99-a09e9dc842da.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODVkNDM2YzUtY2FjNy0zMTM0LTk2OTQtYjc0N2NiNGRlZmI5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 77a962ba-4c4d-3c2e-8ed0-6609f8585c4b
+  config:
+    template: 77a962ba-4c4d-3c2e-8ed0-6609f8585c4b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDY2ZDNiMmEtYjNlMy0zYWZkLTgzNjQtNjMzOTA3MmVmMmRlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 77ea4914-d116-32ed-8ff6-346e79cc264f
+  config:
+    template: 77ea4914-d116-32ed-8ff6-346e79cc264f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTUzMzEzNjAtNWQ0ZS0zNTYyLTlhZDgtNTJmZWFjMTY1OTc3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 78cb14b6-0dc5-327c-8e35-52c23e2e29bf
+  config:
+    template: 78cb14b6-0dc5-327c-8e35-52c23e2e29bf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTc5MTQ2NjItNWZlMS0zZDk2LTllZDUtZWY3ZTA1YzZiNjUxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 78efdadd-5f8d-3d68-8962-977cfa57dc19
+  config:
+    template: 78efdadd-5f8d-3d68-8962-977cfa57dc19.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzAxNTlkZDktMTgwNi0zZmM0LTkwZDEtMGRhNTk4OWEzZGU0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 791aacc6-2f9d-3715-bde8-644e8c67cf44
+  config:
+    template: 791aacc6-2f9d-3715-bde8-644e8c67cf44.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzk4Mzk0NTQtMjkwMC0zYTE1LWE4NDUtZDVlNTdkYTNhNmI3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7a30672b-3c9f-3b51-8860-fc3858d49db2
+  config:
+    template: 7a30672b-3c9f-3b51-8860-fc3858d49db2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODUxMzY1YjAtNjMyZS0zMWZjLTgzMzYtZTY3ZjMzYTBkNTA5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7a6cb3d9-282d-3f9c-8481-b2c599083e96
+  config:
+    template: 7a6cb3d9-282d-3f9c-8481-b2c599083e96.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmI3YTIxNTUtMmExZC0zNGZmLTk4ZjktNmU3OTE5OWQxOTY2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7ca7ab8b-6700-397c-b7d9-31ba6c7ac6b4
+  config:
+    template: 7ca7ab8b-6700-397c-b7d9-31ba6c7ac6b4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTFiZjg3YWEtM2M1OS0zMWIxLWJjZGYtOGE5YjliZDJhMTJmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7e03d27c-266b-3de9-b127-595da33f2a77
+  config:
+    template: 7e03d27c-266b-3de9-b127-595da33f2a77.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGFlNDliZWUtNTM3OC0zMDlkLWFkOWUtN2ZkZWM5OGU2NGNivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7e333ebe-9bf3-3069-9f77-01435c63d73a
+  config:
+    template: 7e333ebe-9bf3-3069-9f77-01435c63d73a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTQ0ZmExN2MtNWI0Yi0zMTE4LWJhM2ItMGUwZGZhYmRmMmFmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7e7a233b-1c0b-3506-bc16-1f4499fc43c8
+  config:
+    template: 7e7a233b-1c0b-3506-bc16-1f4499fc43c8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmJkODE5ZmMtNDgyMy0zYzQyLThkNDktZjkzMzc2NWIwZTgxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7eacebd5-e45e-3ddd-b7a1-fb44d47b8d38
+  config:
+    template: 7eacebd5-e45e-3ddd-b7a1-fb44d47b8d38.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGNiOTJjMjMtNjg4Ni0zOWUzLWFmYjEtNzk2Mzc4ZjllZWQ5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7edeb47e-3168-3a2a-815b-88dcd45044fd
+  config:
+    template: 7edeb47e-3168-3a2a-815b-88dcd45044fd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjIyMDEwZDEtZWU1Ny0zNmY5LWI2NjMtYjQ0ZTJjYWVlZDdjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 7fa93b55-3e45-340b-8d4c-5ff9af8b2750
+  config:
+    template: 7fa93b55-3e45-340b-8d4c-5ff9af8b2750.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmZkMzdhM2QtNjU3MC0zMjhlLWE2MDktMTA5MDllMzQ2NDYyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8030c2aa-68d1-38a9-9a6c-98235c73db36
+  config:
+    template: 8030c2aa-68d1-38a9-9a6c-98235c73db36.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzg0ODVlNDEtODdhOC0zMGRhLTkzZjUtMGIzNGE1YzBlYjExvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 81d1697f-eefb-35f5-a9d9-9d290b423974
+  config:
+    template: 81d1697f-eefb-35f5-a9d9-9d290b423974.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjc3ZmU2MzMtYWNjOC0zM2JmLTg4ZmUtNWI2N2M0NDMwY2Zivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 82e26738-c678-3c4d-abc1-aed9de56c695
+  config:
+    template: 82e26738-c678-3c4d-abc1-aed9de56c695.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmI2ZGEyNzEtMTRlMC0zNzBlLWJhMWUtZWJhNjQwMjk1OTM1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8369ab39-3f37-395b-87c7-5bb737ce8e2e
+  config:
+    template: 8369ab39-3f37-395b-87c7-5bb737ce8e2e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzE4M2ZlNzEtNDU4Yy0zMzI0LWI2YTYtM2M0ZjViZTRkZWYxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 83dbd514-f021-3450-b6ec-3a2e820c9ab5
+  config:
+    template: 83dbd514-f021-3450-b6ec-3a2e820c9ab5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjllYzRlMTAtMzJlYS0zZDQ1LWI2MWUtYzdlYTBmOGEyZDIyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8489ae09-8995-3a75-82ab-9d9ea8577a9d
+  config:
+    template: 8489ae09-8995-3a75-82ab-9d9ea8577a9d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGQxMjQxMjctNGI2ZC0zYzU3LThlZWUtM2IzYTljYTc1NmI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 852a80d8-6f44-3589-a5bb-4896eb00357b
+  config:
+    template: 852a80d8-6f44-3589-a5bb-4896eb00357b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2FkYjdmOGYtMGE5ZS0zOTE3LWJhYjEtOGZkODJhZjFlNWI5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8551a8d3-e2e3-36cb-a32f-2cd0abe5b862
+  config:
+    template: 8551a8d3-e2e3-36cb-a32f-2cd0abe5b862.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDQzNzNhOGEtMjE5ZC0zMWM4LWFlNjgtYjc0YTNlY2JkMWZjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 855fba4f-9325-39ff-84ce-b093df882b96
+  config:
+    template: 855fba4f-9325-39ff-84ce-b093df882b96.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTY2ZDg3ZjItNDBiNC0zYTRlLTgwYTgtOWQ5NDI2MjFhNjA5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 85afd6f3-1fa0-3d63-8b0a-14f5ee38bee6
+  config:
+    template: 85afd6f3-1fa0-3d63-8b0a-14f5ee38bee6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWU3M2Y3MDAtZDU5Yy0zMjZlLThiYjUtMzllMmVkZjEyNTdivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 86a0e9c3-fb4a-3c55-85bf-b50ee621a609
+  config:
+    template: 86a0e9c3-fb4a-3c55-85bf-b50ee621a609.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjRiYzFmNzctYjA5ZC0zYzFkLThkMjMtZGQ1MDY1OTY1MDZivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 87c3e8c9-bbe6-3b19-8338-1549305a27c8
+  config:
+    template: 87c3e8c9-bbe6-3b19-8338-1549305a27c8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2M3ODI2MmQtMmU1NS0zMjJkLWFiM2MtMWM0NGQyNTFlNTNmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 88a3b142-fc42-37ee-8929-bb5db8b44048
+  config:
+    template: 88a3b142-fc42-37ee-8929-bb5db8b44048.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTVjNDI5NWItZDMxMi0zYWM1LTg2NGItNzNmMzI2YzlmNWJlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8a14508d-d9ad-39ca-939e-c9c9cac90c78
+  config:
+    template: 8a14508d-d9ad-39ca-939e-c9c9cac90c78.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2Q0MmNjOTItOTVkZi0zNTk4LWJkMjEtNDkwNWVhZDUxNTEyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8a98fa76-f11a-3c14-b66a-57e30f99d6c2
+  config:
+    template: 8a98fa76-f11a-3c14-b66a-57e30f99d6c2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDk1N2FkNGItN2Y1Yi0zYjE4LTg2OGItNjZlZDE3MzU0NjVjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8b4aea51-deed-3ac8-b28f-2acfdca9f52b
+  config:
+    template: 8b4aea51-deed-3ac8-b28f-2acfdca9f52b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGY3MDkxZjgtMzFjNS0zOWNlLWEyZDItZGFhMWQ4NGVkOTVmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8b96ae5b-125a-3548-8bc4-d0deb30b06cb
+  config:
+    template: 8b96ae5b-125a-3548-8bc4-d0deb30b06cb.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjYzNTcyYTMtNDJlZC0zOGNkLTgwMjctYTM4NGQ3ZWYwODNivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8c12e1dc-e592-3ebd-ba27-93511d821bc1
+  config:
+    template: 8c12e1dc-e592-3ebd-ba27-93511d821bc1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTA3YWZhMzMtNWQxYi0zNjliLWJhYjYtNDU2NGE5OGMyZDVlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8cfe8f55-e3f1-3611-9c59-ab3682073bbf
+  config:
+    template: 8cfe8f55-e3f1-3611-9c59-ab3682073bbf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTNiYjU4MDMtZTMwMy0zZDIxLTgxMjYtZGE5ZmE5OWJiY2Yzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8d7ae4bf-3075-3a0d-888a-042fff2e2c76
+  config:
+    template: 8d7ae4bf-3075-3a0d-888a-042fff2e2c76.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzA1NGRhODYtMGUzMi0zYWQxLThiYzAtMDVmOTY1YTA0ODIyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8e8ce20c-789a-3d0a-8ca0-8d6f2e42086e
+  config:
+    template: 8e8ce20c-789a-3d0a-8ca0-8d6f2e42086e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmI3MzI1MmEtNGM5Zi0zNmUyLWI3MDEtNjdhYjNmNzMyNDc5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8f330f29-ad76-3c82-a704-ecfbdbc17507
+  config:
+    template: 8f330f29-ad76-3c82-a704-ecfbdbc17507.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmM2MDM4Y2ItMzE4ZS0zMGRjLTliNjMtYmQ1OWY1NmM3ZmNkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8f885844-6c14-3cfa-9a1a-60861c58e340
+  config:
+    template: 8f885844-6c14-3cfa-9a1a-60861c58e340.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjg3MDMxZmItOGMxNC0zMDYyLTg2NjUtZDE2N2I3ZmMwZDNhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8fc2dbfc-6d66-3bf3-8c76-414cac3b825c
+  config:
+    template: 8fc2dbfc-6d66-3bf3-8c76-414cac3b825c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTVmNDAwZWMtMmFlYy0zNDFhLTg1M2QtNzQyNDYwMzg4ZDU1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 8fe38f69-7c5b-33ca-9cd0-98eaadd8c78a
+  config:
+    template: 8fe38f69-7c5b-33ca-9cd0-98eaadd8c78a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWI1YzZmYzQtYzVhOS0zNjc0LTkxMDMtODU1N2Y0OWQ5ZTRlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 904cde81-d1cd-3569-8c36-740121d94ec6
+  config:
+    template: 904cde81-d1cd-3569-8c36-740121d94ec6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGU5NWE1NzktYmU2YS0zZDY3LWIwM2UtODI3NDQzNWY0Njcxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 91b446b0-c761-3d74-afb3-b9ae82b05326
+  config:
+    template: 91b446b0-c761-3d74-afb3-b9ae82b05326.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDE0NWQyMjMtZTIxMC0zMWMwLTkxYWYtYjZmYjgyNmI3YTZivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 91ef4ea8-82df-3469-a68d-300cb2e2ecda
+  config:
+    template: 91ef4ea8-82df-3469-a68d-300cb2e2ecda.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDQzZTE4OTQtZWVhMS0zNTg2LThjZjAtMzNiOTRiMzcwNDFivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9231736b-aa7a-3014-b036-b907b4b820f6
+  config:
+    template: 9231736b-aa7a-3014-b036-b907b4b820f6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTRiNjIzNTMtMzY5Yy0zOWM2LThhYjItOGRjNGQ0YjZhODRjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 92c40195-5d55-35d3-81cd-50ce74f2ae03
+  config:
+    template: 92c40195-5d55-35d3-81cd-50ce74f2ae03.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzU1OGZhMWItMDNjOC0zY2VhLTg4Y2UtMzVlNWY2OTI1YzM0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 93fe4335-c593-3a3e-82c6-cda0d499fa2d
+  config:
+    template: 93fe4335-c593-3a3e-82c6-cda0d499fa2d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2ExYjRiMWMtZTI3Yy0zZmE4LWEwOWItYzAyMmFiNzc5NThlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 94565d1d-b203-33ad-a281-fc4e8c73fba7
+  config:
+    template: 94565d1d-b203-33ad-a281-fc4e8c73fba7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWIyYTRlYmItNjI1Ny0zMzE2LTk4MzktOTQwOTNkMmNiYTYyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 94ed186b-3968-37b6-b45c-0fc6f4bccf6e
+  config:
+    template: 94ed186b-3968-37b6-b45c-0fc6f4bccf6e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWUyYjRlZjMtN2UzZC0zZjU0LWIzNzUtMzBlMmUzN2VhMmUwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 966dfab6-cb18-361a-a3c5-ce17a615d21a
+  config:
+    template: 966dfab6-cb18-361a-a3c5-ce17a615d21a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTI4MWE5ZmItODhiZi0zNTY3LWEzZGItMzE4ZmY2Zjc3ZTFmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 97497287-64e6-38bc-94c0-ea1903cf6a1c
+  config:
+    template: 97497287-64e6-38bc-94c0-ea1903cf6a1c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTZmMjBmOWYtYzdhZi0zNDhhLWFmM2UtNzUyODdmYmFhZWU3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 97f8aa5a-a2b9-3815-aa0d-991f94a55b86
+  config:
+    template: 97f8aa5a-a2b9-3815-aa0d-991f94a55b86.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjE5NmY1Y2EtMjJjZi0zZjk5LTk5Y2QtNWEyYmRiMjIzZDIxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 987cf1bb-51dc-3cca-a900-06131a8e0566
+  config:
+    template: 987cf1bb-51dc-3cca-a900-06131a8e0566.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmIzYzc3NmYtMDVkNC0zYTAzLWFhYTItYzVkMTc5YmMzNGI4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 991ed07a-3cad-3d65-848c-f38df6dffce0
+  config:
+    template: 991ed07a-3cad-3d65-848c-f38df6dffce0.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDUwNmYyZDAtZjNjMS0zMmFkLThkZjAtOWVmMzExOThjMjBhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 99ccda63-befa-37e4-ab1a-93111485c76d
+  config:
+    template: 99ccda63-befa-37e4-ab1a-93111485c76d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTA0MzhhZjAtMjgxYS0zYTFjLWI4MzAtY2VlNTRiYzIyZWQwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9a27b45c-e18e-3cc3-8e55-7a5f914b4739
+  config:
+    template: 9a27b45c-e18e-3cc3-8e55-7a5f914b4739.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTJkMjA5OWMtNzFjZS0zNmRmLTllOGMtNmE3N2I0ZjY4Y2M5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9a65d55c-039a-359e-a937-fdcf661769a3
+  config:
+    template: 9a65d55c-039a-359e-a937-fdcf661769a3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODJhY2MzYmYtMTU4MS0zZjljLTg2ZTgtN2Q5ZmEzZDAyZjYxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9ab7998b-cd23-3e6b-9e3e-0478c320fe42
+  config:
+    template: 9ab7998b-cd23-3e6b-9e3e-0478c320fe42.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTRlYjFmYzktMTA4OC0zNjE1LWFmNzUtOTMxMTQ2YzUzNWU5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9ca3336a-92b9-3dd6-9eaa-e261e43320c3
+  config:
+    template: 9ca3336a-92b9-3dd6-9eaa-e261e43320c3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzQwYjQ2YzYtMDdlOC0zN2I1LWEyZWMtZjNlMmYxYzJmZDg5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9d4de19a-1d74-3d06-844d-5994e8effb87
+  config:
+    template: 9d4de19a-1d74-3d06-844d-5994e8effb87.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzYyOTQ5OTYtNDYzMS0zOGM1LTk2ZWUtMDUzMzc2NTllZDdlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9d835890-6c36-3302-9c36-7bf624ba29be
+  config:
+    template: 9d835890-6c36-3302-9c36-7bf624ba29be.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjgwMzhhMGQtY2Q4ZC0zYmIwLWE3ZDYtNDJjZTFkNTAwNWFkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9f847285-03be-3912-933d-8c9e72f9f1bf
+  config:
+    template: 9f847285-03be-3912-933d-8c9e72f9f1bf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGM0ZmI5NWItYzJiZC0zM2QzLWI3M2MtZDVmZmJkNjg3OTlmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: 9fac8dc2-78e3-3d6f-bd8a-3f2ba50e494e
+  config:
+    template: 9fac8dc2-78e3-3d6f-bd8a-3f2ba50e494e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjU4MDJjYjUtODhhYy0zZTM3LThkZGUtMTI1NTM1N2RiMmZkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a03e921b-f88d-37cc-ba11-8770d9605192
+  config:
+    template: a03e921b-f88d-37cc-ba11-8770d9605192.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWFmYWU1MGUtMzk3Ni0zY2UyLWEwZmYtNDFkNzczZjlhMGE0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a0ae7bb8-bf3a-3ead-9b1d-f35973461f2a
+  config:
+    template: a0ae7bb8-bf3a-3ead-9b1d-f35973461f2a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDc2NDhiMGQtMDc3My0zZDRmLWFkMzUtNDcwNzI2YTIyODdmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a0c62833-bad4-3265-b178-95a315bf43ec
+  config:
+    template: a0c62833-bad4-3265-b178-95a315bf43ec.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGM4NjY3YjctNWE4Yi0zNmVmLTlhMTAtNmNjZjg3OTM2YzE2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a0e8d0a4-8ea6-3a84-ba10-7fb3b0a72f64
+  config:
+    template: a0e8d0a4-8ea6-3a84-ba10-7fb3b0a72f64.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjQwYTQ2ODMtOWQwNy0zNGMzLTlhZTgtOWIyOGVmNWQwM2Rlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a120a4c9-a847-379b-9a14-933b72ca5fa7
+  config:
+    template: a120a4c9-a847-379b-9a14-933b72ca5fa7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTZmN2Q1MTgtM2Q1ZS0zMTI5LWJkNGQtYTYwMmZhNzQzMmIwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a27623f1-c68c-38ea-a2a3-4ce7cf839377
+  config:
+    template: a27623f1-c68c-38ea-a2a3-4ce7cf839377.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmQ5MWZkNmMtZmEwOS0zMDA4LWJjMGMtNTY4YjY0YTE0OTRkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a2bc5059-1204-3383-a00d-43dc546f9ad5
+  config:
+    template: a2bc5059-1204-3383-a00d-43dc546f9ad5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWFkNjIyODYtYjQ1Mi0zMDMwLTlmZjMtYTBiMGQzY2IxODE0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a30970e6-38a0-375f-ba94-86e72299b865
+  config:
+    template: a30970e6-38a0-375f-ba94-86e72299b865.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjU2NmQ0YmItNjhkNy0zYmIwLTkxNjYtYjZmMzEwNTFkN2Zmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a3c62e2f-309a-36db-b005-48d485284e14
+  config:
+    template: a3c62e2f-309a-36db-b005-48d485284e14.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTczNTFmYjUtZDdkZC0zYzdhLTg0ZjMtZDAwNjYyMzBjMGQ2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a4d1baa7-d040-3ff7-a6b4-85608de9f039
+  config:
+    template: a4d1baa7-d040-3ff7-a6b4-85608de9f039.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjE0OGY0NTMtZGE0NC0zYmNjLTkzN2YtNjllNTVkNDY5Yjllvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a62ba285-2958-3ba1-9962-d56637275fa5
+  config:
+    template: a62ba285-2958-3ba1-9962-d56637275fa5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjRhMDdmMmQtOTY3OS0zOGUyLTg2YjgtZDVhYjE5NGY1OGRmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a8751a44-f16f-3b4a-bd20-c636ca491e67
+  config:
+    template: a8751a44-f16f-3b4a-bd20-c636ca491e67.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWZkMDVhMWMtZDRiNi0zNGFkLWJlYmMtYjUwMDZjYTZhYmIwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a89019d3-9021-3912-b757-8c433f60d15e
+  config:
+    template: a89019d3-9021-3912-b757-8c433f60d15e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGY2ZTAwM2UtNmVjNS0zYzFmLWJhM2UtOTQwMmIzNWViNWVmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a92cf030-43d3-365c-b435-5c7a0f43189d
+  config:
+    template: a92cf030-43d3-365c-b435-5c7a0f43189d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTgxMTA0Y2MtM2FhNi0zMWEyLThhNTMtNjc4ZDNiNDBmMDkzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: a9c1f085-0303-3c83-a251-1ba85d7ce464
+  config:
+    template: a9c1f085-0303-3c83-a251-1ba85d7ce464.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDgzZTQ0NGItZDkwMi0zYjlkLTgwNWUtMjY1MWY2NjBjNGI5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: aa0065f0-6446-310f-8c8e-1d5630bf2541
+  config:
+    template: aa0065f0-6446-310f-8c8e-1d5630bf2541.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWI4MzUwOTctNjM3Ny0zOTdkLTkwM2ItM2MwYWY4NDgzYzJmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ab7d8389-4221-3130-9310-0a15d3807ee5
+  config:
+    template: ab7d8389-4221-3130-9310-0a15d3807ee5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzljNjIxYzctM2Y4YS0zNzVjLWFmOWUtZTE2ZWY1YzM2NzY3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ad0a062c-551a-35e0-ab01-cb1ec62fb910
+  config:
+    template: ad0a062c-551a-35e0-ab01-cb1ec62fb910.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjBlOTAyNzctYzgxYi0zMWY0LWE2NGMtODY1YjBiNWI1ODRhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ad0ff338-7572-3348-8a51-f9dc56504df4
+  config:
+    template: ad0ff338-7572-3348-8a51-f9dc56504df4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjg1ZTQ2MDAtNTRhZS0zMjMwLWJkODQtMGY5MzE1MzQwNGE0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ae928ee7-8f8e-3153-9a5b-44bc0e4b4faa
+  config:
+    template: ae928ee7-8f8e-3153-9a5b-44bc0e4b4faa.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjNlZGJhZjMtMDlkNS0zYzQxLTlmOWItZjNmNmRiYjY1MDY5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: afab5549-dd4b-374a-b0fb-0fbe997d6101
+  config:
+    template: afab5549-dd4b-374a-b0fb-0fbe997d6101.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjMzMDlmNWItNzlmMy0zMjRjLWE5YzMtYTlmZDFhMDgzMzkzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: afb662b1-26da-3ee6-ac32-1882d80dd58b
+  config:
+    template: afb662b1-26da-3ee6-ac32-1882d80dd58b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWY1Y2UxMTUtMjNlMy0zZjAxLTkwODMtNDhlODQ2NjM5Yzkzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b1796228-90eb-3915-abce-b51354b892bd
+  config:
+    template: b1796228-90eb-3915-abce-b51354b892bd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDZhZWVjYjQtOGU2Zi0zYWU4LWJkMDAtODJkYTQzOGZkODRlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b33f52f4-fd5e-3b1a-a68e-6f7893631f96
+  config:
+    template: b33f52f4-fd5e-3b1a-a68e-6f7893631f96.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGJmMmQwYzgtZWY2Ny0zNTc1LThiOTMtYjAwMGJhOTUxOTQwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b3fea429-a804-3172-ae74-b8d771b81409
+  config:
+    template: b3fea429-a804-3172-ae74-b8d771b81409.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzU5YTUxM2EtOTVmYi0zMjEwLWEwZTItODhkYjNmNmUxMzYyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b45324ee-461a-3e8a-a289-39d98a5bb774
+  config:
+    template: b45324ee-461a-3e8a-a289-39d98a5bb774.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWVmNzBhOWEtYzMzZi0zNTcyLThkYjItMmY2N2Y0ODljOGZmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b46bf302-9129-3e56-b799-76e3f52d0478
+  config:
+    template: b46bf302-9129-3e56-b799-76e3f52d0478.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGI4NWNiOGQtMmI0NC0zN2U2LTg0MDgtMDE2NjQ4N2YyZmJjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b47e3b56-124e-33a6-a02e-7550edbe3390
+  config:
+    template: b47e3b56-124e-33a6-a02e-7550edbe3390.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmVhZGEyMzMtNmY2NS0zN2FkLTk0YzgtNWFjM2E1YzgxYjBkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b5a42560-d7ad-3155-996c-9d1a8d6cb3c4
+  config:
+    template: b5a42560-d7ad-3155-996c-9d1a8d6cb3c4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTdmYWNjYzktZmQyOS0zZjY5LWFkNjEtMmM4NzhmODNmZDk2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b5ec24a8-bd7f-3b33-a1e2-55249af823cb
+  config:
+    template: b5ec24a8-bd7f-3b33-a1e2-55249af823cb.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDA1NzA2ZGUtYWQ2MC0zNTU1LTgxMTgtNGRhMGFhZTk3MGUyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b66563c7-68e2-36bd-b02d-f666e1b834a2
+  config:
+    template: b66563c7-68e2-36bd-b02d-f666e1b834a2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjAwNTJkYTEtZTg2Yi0zZTk3LTg1ZjktYTUzNTVlM2I4ODFjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b6bb88e0-60dc-3e83-ba42-7d35262d00cd
+  config:
+    template: b6bb88e0-60dc-3e83-ba42-7d35262d00cd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzdhMTM2MTEtODAzYS0zODdmLWIzZGYtM2I3OTRiMDMyYTAyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b6bcf964-8213-3505-b770-47ef76333320
+  config:
+    template: b6bcf964-8213-3505-b770-47ef76333320.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDBlOGEwZDItMWI1NS0zZDhjLWJhNTEtNjAwODNhMDYyZWJkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b75ab72d-2030-359a-9869-7c0813d03bdc
+  config:
+    template: b75ab72d-2030-359a-9869-7c0813d03bdc.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGE5NDdmODItMjY1OS0zNzE5LWFmMDMtMDlmNjJjMTkxOTEwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b840e360-a7c2-3ebc-8806-80f4fd0962f5
+  config:
+    template: b840e360-a7c2-3ebc-8806-80f4fd0962f5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODYyZTRlY2EtNjM4Yy0zY2Q2LWFkODQtYjY4ODVjMzZiNTUxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b85077ff-b19a-37ce-b8e9-0f4759c6c930
+  config:
+    template: b85077ff-b19a-37ce-b8e9-0f4759c6c930.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2JiY2E1ZDQtMjgwNS0zNzQ5LTgyMzMtYTFjNTU3YjFkZTc5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: b9374664-8c5e-31c3-b962-82e236251d2f
+  config:
+    template: b9374664-8c5e-31c3-b962-82e236251d2f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWM2OTM2NGEtOGZlNi0zZDFlLTlmN2QtZTk5NGQ5ZDFlZDYyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ba858cc6-fcb5-301e-8582-93172e3a0856
+  config:
+    template: ba858cc6-fcb5-301e-8582-93172e3a0856.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmE0ZmY0YWQtOWE1OS0zOTFmLWI3M2MtN2M4YzUyYjQyMWU5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bb4e635f-58b0-3ae2-9a71-6e8c006bff2e
+  config:
+    template: bb4e635f-58b0-3ae2-9a71-6e8c006bff2e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzgwZmI0YzktNWFhMy0zOGNlLWJlZTctMjAwNTY4YjA3NmMwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bb6623f3-e6e2-31ed-82db-d7ddab8f26b1
+  config:
+    template: bb6623f3-e6e2-31ed-82db-d7ddab8f26b1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmQwZjM4MzUtYmMyZS0zOWJmLTgyNzQtZGU1M2M4NjFiOTNkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bb799327-0e9c-309b-9217-9216959654f4
+  config:
+    template: bb799327-0e9c-309b-9217-9216959654f4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTA0ZjI0NTItZTE3ZS0zNmFhLTg3MDItOWQ2YTljNmViNjQyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bbf87d27-2a8b-36f0-b31c-a75a7408d36b
+  config:
+    template: bbf87d27-2a8b-36f0-b31c-a75a7408d36b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjY0NWE2ZGEtYTg2Ni0zMzYxLTg3ZjUtYjkzYTkzY2IzMDEyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bc19fc49-ea6c-303d-9cc4-986e4ef061ee
+  config:
+    template: bc19fc49-ea6c-303d-9cc4-986e4ef061ee.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjUzNGQ3M2EtODNkZS0zMTg3LWI2ZGMtZWJhYmJlNDI4ZTg5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bc9c571f-a1af-3a4b-ac68-faa5d078b7c4
+  config:
+    template: bc9c571f-a1af-3a4b-ac68-faa5d078b7c4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWQ5NDE1ZGQtOGNlZi0zYjUxLTg4YzgtZDU4NWU2NzRmZTMxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bca62116-5eb4-33b8-a5c7-08aec35469d7
+  config:
+    template: bca62116-5eb4-33b8-a5c7-08aec35469d7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDJiYTYwOTYtMmE2ZS0zZTg0LWI5ODQtMjRmM2ZkZGJmNzk3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bcf67564-c92f-3850-85cf-5f42dfb17a57
+  config:
+    template: bcf67564-c92f-3850-85cf-5f42dfb17a57.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWFiYjc1ZmMtMjVmNi0zMjNmLTlkMzgtODVmYzJjOTIyNDBlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bcfa7e93-78b3-35db-a91b-b3434cf3ef9b
+  config:
+    template: bcfa7e93-78b3-35db-a91b-b3434cf3ef9b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzBmZDU2NTktODY4Ni0zOWUyLWFjMTMtYTQxZDIwY2Y2NDdjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bd820d94-9aa8-3f55-a05b-a09ff13cc0c4
+  config:
+    template: bd820d94-9aa8-3f55-a05b-a09ff13cc0c4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTMwMDZmMDQtODkxMS0zN2FkLTkzYWQtNWY5MmUzZWFiMmNhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bed8220a-8130-3e42-99fa-d4431c81f81b
+  config:
+    template: bed8220a-8130-3e42-99fa-d4431c81f81b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmZiOWZmNmUtZjkwZS0zNmYwLTkzYzgtMTA0MDBkOTU0MGFlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: bfd7f314-db23-3454-8815-63c6d2c147bd
+  config:
+    template: bfd7f314-db23-3454-8815-63c6d2c147bd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzdkNDMzYmQtNWY2MC0zZGU5LTljM2ItNDFkMjdmZGQ1NWI2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c01c04f0-9fe3-3ce4-b11a-fef1ba625446
+  config:
+    template: c01c04f0-9fe3-3ce4-b11a-fef1ba625446.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjA4MTRjNjgtMWZhOC0zY2U3LTgxZmItMmZiMGU3MTM1MDA3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c05934c4-d488-3c4b-968b-88beeba5525a
+  config:
+    template: c05934c4-d488-3c4b-968b-88beeba5525a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWIxMjVhZGYtM2Y5Ny0zM2I1LTgwZjctZjY0MThmYjcxODE1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c0783e7a-bb34-3cde-8e3b-be8730654458
+  config:
+    template: c0783e7a-bb34-3cde-8e3b-be8730654458.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODI3N2RkNzgtYzExMS0zOTEzLWExZDktYTI5N2I5YTkwZGMyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c0ba9acb-d7bf-3258-b37c-0f3472caf4a9
+  config:
+    template: c0ba9acb-d7bf-3258-b37c-0f3472caf4a9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjcwNjA4OTItOWFjNS0zOWI5LTkyYWMtMWMxMTVjOGM4ZGFjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c1001c2a-2a8e-339f-a640-8e035c6419b8
+  config:
+    template: c1001c2a-2a8e-339f-a640-8e035c6419b8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGFhMTdmZmQtYTAyOS0zYmY3LTg4NzctYTliNDlmMTQ4ZjJhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c1a2cf1e-59d8-3d72-a0cc-8f25fa167d92
+  config:
+    template: c1a2cf1e-59d8-3d72-a0cc-8f25fa167d92.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTI4YTE0MzUtNWNhYi0zNjdlLWIxMmYtMWY3ZmU2ZDcyYjBkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c267e45d-b4a4-3f6b-a64a-31329b99d648
+  config:
+    template: c267e45d-b4a4-3f6b-a64a-31329b99d648.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWI3YWVkNGQtYzA3ZC0zYzk1LWIwY2YtYTdlZjYwOWY3ZTE3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c2ab3122-8852-34c3-a4d5-c16896649b7d
+  config:
+    template: c2ab3122-8852-34c3-a4d5-c16896649b7d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDRkOGE3NjQtMDAxMS0zMzkzLWI4ODYtYzgxNjhlODM4ZGQ3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c33b1f0a-740b-37ed-b20e-0d437dc32b10
+  config:
+    template: c33b1f0a-740b-37ed-b20e-0d437dc32b10.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDk4NzlmNDAtY2ZhOC0zZDk0LTk0YzItNDg2YzZkN2UxNGU1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c58eec80-d76d-3a97-a2b2-b33f56f3bad8
+  config:
+    template: c58eec80-d76d-3a97-a2b2-b33f56f3bad8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzg2YWUzMTEtNTkxNC0zZjkzLWE1ZDgtYmFhNmVhNDk0ZjU0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c5aa2792-dc03-31a6-8b12-0c4bf7779eb1
+  config:
+    template: c5aa2792-dc03-31a6-8b12-0c4bf7779eb1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDMyNTFjYWMtOTIxZi0zMjdjLWE3NjctNWM4YzhmMjNiZTE5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c67de278-0528-397b-a7b9-d76ebef734e6
+  config:
+    template: c67de278-0528-397b-a7b9-d76ebef734e6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTUwZGI0MzMtOTM2Yi0zNzlkLTg4ZjAtM2RjZTg1NDIzZTY4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c6dc48b2-3fd7-3194-8612-f1811ec08a9c
+  config:
+    template: c6dc48b2-3fd7-3194-8612-f1811ec08a9c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWJlMTRjZGEtNDgwOS0zZjM0LTk1ZDMtOTlkNGYyNjhjNmZjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c70155b8-8950-3555-a0fa-e2a09d64dd57
+  config:
+    template: c70155b8-8950-3555-a0fa-e2a09d64dd57.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjAzYmQ2YTYtODRlMC0zYTE1LThlMWMtMTBiNTMwNjgyYzEyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c72e9565-22c3-36c6-97a2-9e1b3836e74f
+  config:
+    template: c72e9565-22c3-36c6-97a2-9e1b3836e74f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODVjY2Q4ZWYtNDg2OC0zZWM2LWI3MTctN2VjM2ZlYWViN2E4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c841883e-39cb-3796-a9e8-2d3a84635c6c
+  config:
+    template: c841883e-39cb-3796-a9e8-2d3a84635c6c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMWEyYzU4N2EtN2E5OS0zOGEwLWFmY2EtODc3MmUyOWU1YTI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c84dbb38-3fa0-34fb-b2eb-adab0b800fa5
+  config:
+    template: c84dbb38-3fa0-34fb-b2eb-adab0b800fa5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMmFkNjAzYWMtM2UxOC0zMjljLTkzYWQtNTg4N2NmOTBkNTBkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c928ae6a-5b4b-3553-9b80-cc3cbd393cb7
+  config:
+    template: c928ae6a-5b4b-3553-9b80-cc3cbd393cb7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZWJiNGFjMzktYmVhZi0zNzA5LWE0YzctMWE5N2VkZGNmN2Uzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: c991be73-78e3-314b-afbd-b64c21ead086
+  config:
+    template: c991be73-78e3-314b-afbd-b64c21ead086.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2I5YmY1MzctMjg0Ny0zNzQ5LThjMzMtNzk4ZDUwOWY0NmQ0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ca3559bd-c930-30fa-b9c7-d79867466f51
+  config:
+    template: ca3559bd-c930-30fa-b9c7-d79867466f51.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzg5ZjZiMzAtNzlkMy0zOTA2LTkxMjYtYmIxYjU5NjBiYjE1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ca5b1fec-e253-39a1-9928-f7fec5c5dbf2
+  config:
+    template: ca5b1fec-e253-39a1-9928-f7fec5c5dbf2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTk4OTM1MTYtN2IwNy0zMmMyLWEwYTYtZTJkNjIzZjE5M2Fivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cab47e5c-4e6c-3361-8e20-45f4a5652174
+  config:
+    template: cab47e5c-4e6c-3361-8e20-45f4a5652174.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTRlM2UzNTYtMDllNC0zYTE5LTgyMGItYTE3ZGM5Y2Y2ODlmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cb4b3f8e-be92-3469-92e3-3a5d5a293492
+  config:
+    template: cb4b3f8e-be92-3469-92e3-3a5d5a293492.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWJjOThkMGMtYTZmYi0zYWMwLTliOTAtZDkzNGZiYThhOTg0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cb797b5d-89be-34f2-b0be-aa76f609e611
+  config:
+    template: cb797b5d-89be-34f2-b0be-aa76f609e611.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjFjNDg1NDEtOWY3YS0zMGFhLWEzNGQtYjJiMGQwMWQzMTFmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cbe7dfe5-16b1-35a5-857c-c973489c2b66
+  config:
+    template: cbe7dfe5-16b1-35a5-857c-c973489c2b66.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzkwZTdjYTctOTJlOC0zNGRiLWJmNWYtZmI3MGE5NDRlNmYzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cd305422-eceb-31d3-aab9-ed3f3ee92c0c
+  config:
+    template: cd305422-eceb-31d3-aab9-ed3f3ee92c0c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjVhMDRmYTEtNGRiNy0zODA4LWFjNDMtMGNmMjBhMmMxMzU2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cd463493-e8e4-3c96-8f8f-8960adcbfaf3
+  config:
+    template: cd463493-e8e4-3c96-8f8f-8960adcbfaf3.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzg1NGM4MGItYzFjYS0zNmEzLWEyYmQtYTBiYTgyMWI5NTA5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cdcf0193-38fb-328c-9806-a4d2c56528f2
+  config:
+    template: cdcf0193-38fb-328c-9806-a4d2c56528f2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTcyNjZlNmQtMTVjYS0zZjQ2LWEzMTUtODQzNjc2MTkxYTJhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cdeb8892-109a-3932-841a-367428b176bf
+  config:
+    template: cdeb8892-109a-3932-841a-367428b176bf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDM3NTc4ZjgtMzdkYS0zZjExLTk5NmMtMDRiNjQ4ZWM2NjQ1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ce370ef8-ca35-3730-a0ff-855b6dedbde9
+  config:
+    template: ce370ef8-ca35-3730-a0ff-855b6dedbde9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkM2QwM2VjNWEtODhmOS0zMjMwLWE3ZGUtNTllM2E0MGU2MmI2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cf4dfe3e-4916-302d-9fde-e3e0ec3c6ebf
+  config:
+    template: cf4dfe3e-4916-302d-9fde-e3e0ec3c6ebf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDQ5MWU2OTUtMDI4ZC0zNDcyLThhNzQtZmUxYTkzMGIwZjhjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: cff42419-3af5-3726-887c-94e6d8dff87b
+  config:
+    template: cff42419-3af5-3726-887c-94e6d8dff87b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2IxMDNmYjYtZGJmZC0zZjExLTlmNzUtYThhNTNmODIyNTI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d0777218-42a2-3427-988d-22c8560afc75
+  config:
+    template: d0777218-42a2-3427-988d-22c8560afc75.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGFhNTI0YjYtYTVlZC0zYmMyLWJmMWUtZWFiYzQ1YWMxNmJmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d0811ff9-b0da-3905-b955-ce604c92ffa4
+  config:
+    template: d0811ff9-b0da-3905-b955-ce604c92ffa4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTk1ZTlhYzUtOGJhNy0zNjUzLTg4OTMtMTZiMGNlOTllMGIzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d11b0951-f770-3095-bc20-b6dc48dcbc7a
+  config:
+    template: d11b0951-f770-3095-bc20-b6dc48dcbc7a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYjBkNjExNzYtOWYyNC0zNGM4LTgzNjUtN2FkNmIzNGQ5OTYyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d1d2ffaa-14ad-326f-9ef4-5d2331f03a54
+  config:
+    template: d1d2ffaa-14ad-326f-9ef4-5d2331f03a54.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmQ2NTY2NWEtZDI5YS0zNDhjLTk1OTktOTk3MzlhN2U5ODBhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d233879d-abfd-314e-9f5a-813378c7d3e2
+  config:
+    template: d233879d-abfd-314e-9f5a-813378c7d3e2.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmNjNzU5YWQtZGViOS0zZTQyLWI0ODYtYWJjNzRkNzllYmNhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d2e08d87-4312-3fbc-8905-7d032c96b0e7
+  config:
+    template: d2e08d87-4312-3fbc-8905-7d032c96b0e7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTJlNGQwZjAtMjBlNS0zYTUxLTg1NWYtNDQ0N2RjYzNlM2Uxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d3231746-1279-3cbf-a7c9-6a74dd96da72
+  config:
+    template: d3231746-1279-3cbf-a7c9-6a74dd96da72.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTlmMjA0OTgtYmNhZi0zNTcxLWExY2YtZTg0M2FlYzBlMzdjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d3457385-3dba-383c-bfb7-a3a8a057582c
+  config:
+    template: d3457385-3dba-383c-bfb7-a3a8a057582c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMGQ4YmYxMjMtYzhkYy0zNGVlLTlkZjEtZjM1MThjYzI3Mjg5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d38c382e-5232-3688-9514-f49314d5b0cf
+  config:
+    template: d38c382e-5232-3688-9514-f49314d5b0cf.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWQ4ODY4MzYtM2E5NS0zODgxLTgxMDMtYjYzMTgxYTA4YmEwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d39d42e8-aad9-3102-aa2f-492b766a72b4
+  config:
+    template: d39d42e8-aad9-3102-aa2f-492b766a72b4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMTQ3YTQzYWItN2YwNi0zNzlkLWI2OWUtYmMzOGVkOTliODllvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d415b461-10fd-33fb-81d0-cbc6b3bd1b8e
+  config:
+    template: d415b461-10fd-33fb-81d0-cbc6b3bd1b8e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzYzYzcwYWEtOTY1Ni0zNmY4LThjMTctYmFiZjQ1MjE5YjI1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d746c2c7-1eb5-3ae1-8b31-28b11ba12cc4
+  config:
+    template: d746c2c7-1eb5-3ae1-8b31-28b11ba12cc4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYWM5MjZmNGQtNzRkOC0zOThmLWI3OWMtYjI5N2YwMDhmMTM2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d78d2a4a-7f5b-3cea-848f-7f25bd4c9168
+  config:
+    template: d78d2a4a-7f5b-3cea-848f-7f25bd4c9168.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODQ4OGNkN2ItMzE2Yi0zMzEwLTgwN2EtOTk4MTA3NmNkOTg3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: d91d469b-ae1e-3d4d-844f-8d84d8e8ab1d
+  config:
+    template: d91d469b-ae1e-3d4d-844f-8d84d8e8ab1d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTQ3NmIxNTEtOGMyOS0zZDhjLTg1M2YtMTcxMzc4OTQzMTlmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: dc931b39-ee9d-34d4-ac08-7af95cdaa3ba
+  config:
+    template: dc931b39-ee9d-34d4-ac08-7af95cdaa3ba.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODU5MjdkNDUtZWZjZi0zODU3LWEwODItOGQzNTMwNDgwYTUyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ddd0c754-31bb-379e-871e-70348e8c1e3e
+  config:
+    template: ddd0c754-31bb-379e-871e-70348e8c1e3e.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMzYxN2RkMGUtNjdmNy0zYTVjLWJjYzAtODBiNTVmNmM4NTUyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: decfc380-189b-3dba-b602-14390f39bb35
+  config:
+    template: decfc380-189b-3dba-b602-14390f39bb35.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTBmM2M5M2ItMzk1NC0zOWM4LWI1YzMtN2UzYmY2Y2U0OTIyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: defec306-1b2d-3147-b825-bb74a6fb9e20
+  config:
+    template: defec306-1b2d-3147-b825-bb74a6fb9e20.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjBhNjM1M2UtZmFkMi0zMzEyLWE4YzQtMTc0NzBmMjE2MTJkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: dfdb9f00-58b2-350b-be4d-79f502bcb4c6
+  config:
+    template: dfdb9f00-58b2-350b-be4d-79f502bcb4c6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjcxYmQyNWUtNDY4ZC0zZjVhLWFkNzAtNWFmODE3OWE4Y2Nlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e205a966-7527-3931-bfeb-9c6872faf454
+  config:
+    template: e205a966-7527-3931-bfeb-9c6872faf454.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzRmMzlhNDktNzY1Zi0zOWYyLWFkZjYtMzVhMjEwNjIzZmM3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e2c8133a-4ee1-35f1-a938-52ec70f97aae
+  config:
+    template: e2c8133a-4ee1-35f1-a938-52ec70f97aae.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGJhNmZjMjktYzUwMy0zMjRjLWEzMWMtYzJmZjVkYmZkNzk3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e362fb29-8db8-3167-a909-c373ca4b61e1
+  config:
+    template: e362fb29-8db8-3167-a909-c373ca4b61e1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYzRiNDQ4ZmEtMmE4My0zMTFmLTg4MjktYzM1YWI2YTYyMjQ5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e472f3ca-8fc0-3a1c-8451-14029cccb486
+  config:
+    template: e472f3ca-8fc0-3a1c-8451-14029cccb486.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmRjMTQ4NmUtZjYyMi0zOTNkLTg5YjctNWFjY2U4ZDZmZGMyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e703180e-4b5d-3a35-966c-6f2b4f1e4224
+  config:
+    template: e703180e-4b5d-3a35-966c-6f2b4f1e4224.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGEyNzAzZDMtYjY4Ny0zNTM0LWI2ZTItNTRiZDU5NWI0MjVlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e717888e-2a2e-325b-8b36-b332be98583c
+  config:
+    template: e717888e-2a2e-325b-8b36-b332be98583c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTg4ZDM4YWUtN2Y1YS0zOWE0LWFiNTYtZjhlOWFiMDQ2MzA2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e7d54727-40a8-36ef-89e3-dd660065b6d8
+  config:
+    template: e7d54727-40a8-36ef-89e3-dd660065b6d8.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNDk4N2E0NzAtMDIxOC0zZTY0LWEwMzAtMzE1NTljZDNiY2Q4vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e84f9b83-76e9-382f-ad1c-25195375e2e1
+  config:
+    template: e84f9b83-76e9-382f-ad1c-25195375e2e1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZDg0M2U4M2UtMDllZC0zNjAxLWJiNTgtOTUxZDYwNGE0Zjg1vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e8f27e2d-fa40-3527-b6a3-51c2027eaf86
+  config:
+    template: e8f27e2d-fa40-3527-b6a3-51c2027eaf86.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2EzNDdjYWUtZmZjMS0zMDU3LThlZjYtY2EwYWVkMDRiNzdhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e8fd9321-4e08-30a4-8d71-91b903ca5d76
+  config:
+    template: e8fd9321-4e08-30a4-8d71-91b903ca5d76.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWNhZmE5MjItNmVjMi0zYjIwLWE0NGItNTcxZDIwZGQ4ZTgxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e940a174-94b4-3a4a-84ab-fe436d7f5989
+  config:
+    template: e940a174-94b4-3a4a-84ab-fe436d7f5989.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZmJiZDdlZjYtY2RkNS0zMjM0LWEwNjMtYjc2MTA0OTliYTM0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: e9a1290c-3415-301c-b800-7211fbab47e1
+  config:
+    template: e9a1290c-3415-301c-b800-7211fbab47e1.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2IwMTZjY2EtZjBkZC0zZjg5LTlhMGEtOWY3OWFhNDk2Y2Y3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ea26b7e9-9fd7-3144-972e-f291999a95c4
+  config:
+    template: ea26b7e9-9fd7-3144-972e-f291999a95c4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNGE3NzdmNGMtNDNlZS0zZTA1LWE2MzUtMTBkZTNhZDhmYmM2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: eaf35864-7e9c-340d-9f43-c1e1003dac87
+  config:
+    template: eaf35864-7e9c-340d-9f43-c1e1003dac87.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmRhMGYxN2EtYjFkZC0zZmEyLWE4MWYtYjkyNDUyMDY1ODJjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: eb58773d-2ffb-36a8-b01f-83a389dfb24c
+  config:
+    template: eb58773d-2ffb-36a8-b01f-83a389dfb24c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGNhNjdmNWYtYzU2Ni0zY2M0LWE3MjQtMDEyNDM5NTc2NjM3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: eb6515e8-0bcb-36f3-ab29-277b3f9469e9
+  config:
+    template: eb6515e8-0bcb-36f3-ab29-277b3f9469e9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkY2E5M2VhNmYtMTg2ZS0zMjY4LTkzMzktMmJmZGYxODQ4NDhkvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: eb721da0-185a-3191-8bcf-97f712ac6e42
+  config:
+    template: eb721da0-185a-3191-8bcf-97f712ac6e42.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2ZlZWE2MDQtZjE5OS0zZjY0LWI0MmEtZWFlZTM3NDRkZDA2vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ebb22102-94ef-36b6-a2b8-e3fb2ef2e2b9
+  config:
+    template: ebb22102-94ef-36b6-a2b8-e3fb2ef2e2b9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmE4ODE4MGMtZTAwYS0zYzdkLTliOWQtNzE4YzY5ZTkxMjI3vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ebdbd754-bf2c-3239-be70-56070933a1d9
+  config:
+    template: ebdbd754-bf2c-3239-be70-56070933a1d9.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjZhYzkxM2UtODJkNy0zZDc3LTkyOWUtYWE1MGRjNGRjOWQwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ec251d95-32dd-3671-81ff-eec8afacc1a6
+  config:
+    template: ec251d95-32dd-3671-81ff-eec8afacc1a6.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMDBjNWUyYWEtYmQyZS0zN2EyLTllNmEtNDJlMWRjYzMyMDU0vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ed81a35f-241f-3fbb-8709-5b282ae6e103
+  config:
+    template: ed81a35f-241f-3fbb-8709-5b282ae6e103.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWE1NmQ1ZmEtNDViNi0zOGIxLTgyYTMtMTRiNjIwYTYyYWUxvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ee21c799-2fef-32fe-b77f-01ffbb0b64ac
+  config:
+    template: ee21c799-2fef-32fe-b77f-01ffbb0b64ac.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkMjdkOWQxNDgtOTRhZS0zMTZjLWE5Y2YtOGFiNjBiY2IyNjNjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ef3284ea-b363-3be2-b10a-fa7a2ecb4bea
+  config:
+    template: ef3284ea-b363-3be2-b10a-fa7a2ecb4bea.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZTlmYTBjY2UtNzJmYi0zZDJmLWJkZWUtMDE0NmEzNzJmMWJivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: ef49bf7e-4d39-307f-a4be-ffe30b035def
+  config:
+    template: ef49bf7e-4d39-307f-a4be-ffe30b035def.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTk0YzBhZjItOTgwYS0zOTdhLTllYjYtNDdkMzJiNTAzMmE5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: efc38f11-e307-3b27-b087-00da58dc6712
+  config:
+    template: efc38f11-e307-3b27-b087-00da58dc6712.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmI4MWI2OGMtYjU0Zi0zMDg3LWE2YzItYjYyYzE2NGU2YjYwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f00b52ab-e7f6-300c-94a4-6072a073c504
+  config:
+    template: f00b52ab-e7f6-300c-94a4-6072a073c504.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNjRmMzBhNjgtYTQ3ZS0zZjQ2LWE5MDYtOWNjZWNlZjNlMTgzvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f1274cad-0120-32b4-9ee7-24bedd2eb777
+  config:
+    template: f1274cad-0120-32b4-9ee7-24bedd2eb777.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYTNlMDU5ZjgtODQ5MC0zNWU0LThhMTEtMzU3OTNjMzk2ZGMyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f20d511f-14fa-3685-8c2b-71ea9e5b306c
+  config:
+    template: f20d511f-14fa-3685-8c2b-71ea9e5b306c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkYmRkYmRmZGYtYzQ5ZS0zZWJmLWI1YWMtYjNmYjNmM2QyMDMwvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f2612777-55a0-3c7d-bff2-a47d9de1fb2d
+  config:
+    template: f2612777-55a0-3c7d-bff2-a47d9de1fb2d.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZGUxMjRhMjktYTU3Mi0zYjZjLTk4YzUtNDYwZTk5ZWFmN2Rhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f437c61b-d2a6-32b8-b875-c65e8a828a76
+  config:
+    template: f437c61b-d2a6-32b8-b875-c65e8a828a76.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2VjYWIxYTMtYmUyOS0zNWJjLWE4OTItMjgyMWQ5MDE4YWQyvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f69c0e82-ee1d-38b6-ac3d-3cac5411b89a
+  config:
+    template: f69c0e82-ee1d-38b6-ac3d-3cac5411b89a.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOTYwYjUzZDMtZDc2ZC0zMWU1LWIwZDQtOTYwODUwZmY4MDc5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f6cf17ad-3419-3806-83a9-beb166c1f0d5
+  config:
+    template: f6cf17ad-3419-3806-83a9-beb166c1f0d5.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNWI5NTRiMGEtOGRhZS0zOTFlLTk5YTEtMjMwNTlmYjliNDVivu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f9aad6c3-7420-303c-8817-b8ed682269fd
+  config:
+    template: f9aad6c3-7420-303c-8817-b8ed682269fd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOWVhNWIyOWQtMDg5Yy0zMzk1LTk3NWUtNjUxZjg0YTMzM2Flvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: f9cdf9f2-e95f-3926-97f6-53e12a4a0909
+  config:
+    template: f9cdf9f2-e95f-3926-97f6-53e12a4a0909.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkZjBhNTc1Y2UtZGRmNy0zNzFkLWE1ZDgtNWViOTNkMGViYmVlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: fab034a6-4675-3388-b81a-278a462b911c
+  config:
+    template: fab034a6-4675-3388-b81a-278a462b911c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkOGQ1NGM0MzgtNGY4Ny0zNjliLWI1MTItMzlkN2JkZmE2NTU5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: fb5a0851-6336-32ff-b0d7-e389864c25c7
+  config:
+    template: fb5a0851-6336-32ff-b0d7-e389864c25c7.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNzU4YjQ2ZjAtYTc4OC0zYzY4LWJmMGYtOWE2YWUyZTBmNjBhvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: fd7351c0-9fa4-36d3-a7b1-b172ca98b62c
+  config:
+    template: fd7351c0-9fa4-36d3-a7b1-b172ca98b62c.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNTlhNjY5ZTctMGRhNi0zNjNiLWFjYjYtNmEzMDkxODJmYmJmvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: fdbbd986-0c70-3d14-946f-18fe3901857b
+  config:
+    template: fdbbd986-0c70-3d14-946f-18fe3901857b.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkODAwNTBhNWUtYTc5NS0zOTM5LThmM2YtNjQ0ZjA1ODY3MjFlvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: fde48997-7c6c-3bfa-b61a-3c0ba567e8fd
+  config:
+    template: fde48997-7c6c-3bfa-b61a-3c0ba567e8fd.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkNmFlODJkMTktNDVmYy0zMjYwLWI1NDEtOGVjN2Y1NDc1MDE5vu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment
+- id: fede4bb4-dc32-3757-aa55-cd6d81aa784f
+  config:
+    template: fede4bb4-dc32-3757-aa55-cd6d81aa784f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABABlidWlsdGluOm9uZWFnZW50LmZlYXR1cmVzAAZ0ZW5hbnQABnRlbmFudAAkN2Y4Mzk0ZDYtZDg3MC0zYjYzLTgwNTQtNzAzZDc5OTE4MTVjvu9U3hXa3q0
+  type:
+    settings:
+      schema: builtin:oneagent.features
+      schemaVersion: 1.5.10
+      scope: environment

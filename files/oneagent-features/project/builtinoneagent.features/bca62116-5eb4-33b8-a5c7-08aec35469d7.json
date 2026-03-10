@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "instrumentation": false,
+  "key": "SENSOR_DOTNET_AWS_SDK_SQS_RECEIVE"
+}

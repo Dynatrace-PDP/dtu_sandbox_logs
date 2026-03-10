@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "config-item-title": "[Built-in] Linux system logs",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "log.source",
+      "operator": "MATCHES",
+      "values": [
+        "/var/log/syslog",
+        "/var/log/messages"
+      ]
+    }
+  ]
+}

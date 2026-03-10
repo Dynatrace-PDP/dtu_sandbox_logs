@@ -1,0 +1,23 @@
+{
+  "enabled": false,
+  "config-item-title": "[Built-in] z/OS IMS master terminal",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "log.source",
+      "operator": "MATCHES",
+      "values": [
+        "z/OS IMS primary master",
+        "z/OS IMS secondary master"
+      ]
+    },
+    {
+      "attribute": "loglevel",
+      "operator": "MATCHES",
+      "values": [
+        "ERROR",
+        "WARN"
+      ]
+    }
+  ]
+}

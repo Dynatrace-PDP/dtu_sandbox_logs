@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "config-item-title": "[Built-in] Databases",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "process.technology",
+      "operator": "MATCHES",
+      "values": [
+        "Microsoft SQL Server",
+        "Oracle Database",
+        "PostgreSQL",
+        "MySQL",
+        "SAP HanaDB"
+      ]
+    }
+  ]
+}

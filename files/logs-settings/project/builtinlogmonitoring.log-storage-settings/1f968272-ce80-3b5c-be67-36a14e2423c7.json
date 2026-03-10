@@ -1,0 +1,22 @@
+{
+  "enabled": false,
+  "config-item-title": "[Built-in] z/OS CICS message user",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "log.source",
+      "operator": "MATCHES",
+      "values": [
+        "z/OS CICS message user"
+      ]
+    },
+    {
+      "attribute": "loglevel",
+      "operator": "MATCHES",
+      "values": [
+        "ERROR",
+        "WARN"
+      ]
+    }
+  ]
+}

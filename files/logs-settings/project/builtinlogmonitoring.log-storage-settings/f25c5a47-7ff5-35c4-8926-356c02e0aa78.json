@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "config-item-title": "[Built-in] Ingest Journald logs",
+  "send-to-storage": true,
+  "matchers": [
+    {
+      "attribute": "log.source.origin",
+      "operator": "MATCHES",
+      "values": [
+        "JOURNALD_LOG_DETECTOR"
+      ]
+    }
+  ]
+}
