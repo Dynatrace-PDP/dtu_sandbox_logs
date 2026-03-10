@@ -1,4 +1,6 @@
-Execute these commands prior to doing the lab:
+# Perform 2026: The Usual Log-spects
+
+## Execute these commands prior to doing the lab:
 
 ``` bash
 git clone https://github.com/Dynatrace-PDP/dtu_sandbox_logs.git
